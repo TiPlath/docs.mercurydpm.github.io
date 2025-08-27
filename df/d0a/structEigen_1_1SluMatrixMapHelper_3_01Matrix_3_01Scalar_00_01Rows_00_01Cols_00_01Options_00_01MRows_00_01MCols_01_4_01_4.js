@@ -1,0 +1,5 @@
+var structEigen_1_1SluMatrixMapHelper_3_01Matrix_3_01Scalar_00_01Rows_00_01Cols_00_01Options_00_01MRows_00_01MCols_01_4_01_4 =
+[
+    [ "MatrixType", "df/d0a/structEigen_1_1SluMatrixMapHelper_3_01Matrix_3_01Scalar_00_01Rows_00_01Cols_00_01Options_00_01MRows_00_01MCols_01_4_01_4.html#a71d15b2fe50e077cc3378befeb7f80e3", null ],
+    [ "run", "df/d0a/structEigen_1_1SluMatrixMapHelper_3_01Matrix_3_01Scalar_00_01Rows_00_01Cols_00_01Options_00_01MRows_00_01MCols_01_4_01_4.html#a359c47a6e575a4424c3c04bf56872290", null ]
+];

@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1scalar__logistic__op__impl_3_01T_00_01std_1_1enable__if__t_3_01NumTrabdcb823db80f30ce81ea3fe1af91681c =
+[
+    [ "operator()", "dc/d34/structEigen_1_1internal_1_1scalar__logistic__op__impl_3_01T_00_01std_1_1enable__if__t_3_01NumTrabdcb823db80f30ce81ea3fe1af91681c.html#afd9d32ae188af39fab3d1de4b6a23bb7", null ]
+];

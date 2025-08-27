@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1traits_3_01Ref_3_01PlainObjectType___00_01Options___00_01StrideType___01_4_01_4_1_1match =
+[
+    [ "type", "d5/d9e/structEigen_1_1internal_1_1traits_3_01Ref_3_01PlainObjectType___00_01Options___00_01StrideType___01_4_01_4_1_1match.html#a173755c9c9a4082762ac1b028384b7cc", null ]
+];

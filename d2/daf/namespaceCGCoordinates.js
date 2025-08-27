@@ -1,0 +1,26 @@
+var namespaceCGCoordinates =
+[
+    [ "Base_X_Y_Z", "d7/d4b/classCGCoordinates_1_1Base__X__Y__Z.html", "d7/d4b/classCGCoordinates_1_1Base__X__Y__Z" ],
+    [ "Base_XY_XZ_YZ", "d9/da0/classCGCoordinates_1_1Base__XY__XZ__YZ.html", "d9/da0/classCGCoordinates_1_1Base__XY__XZ__YZ" ],
+    [ "BaseCoordinates", "d4/d46/classCGCoordinates_1_1BaseCoordinates.html", "d4/d46/classCGCoordinates_1_1BaseCoordinates" ],
+    [ "O", "da/d79/classCGCoordinates_1_1O.html", "da/d79/classCGCoordinates_1_1O" ],
+    [ "R", "dd/d7f/classCGCoordinates_1_1R.html", "dd/d7f/classCGCoordinates_1_1R" ],
+    [ "RZ", "d7/d80/classCGCoordinates_1_1RZ.html", "d7/d80/classCGCoordinates_1_1RZ" ],
+    [ "X", "dd/de3/classCGCoordinates_1_1X.html", "dd/de3/classCGCoordinates_1_1X" ],
+    [ "XY", "d4/d83/classCGCoordinates_1_1XY.html", "d4/d83/classCGCoordinates_1_1XY" ],
+    [ "XYZ", "d8/d80/classCGCoordinates_1_1XYZ.html", "d8/d80/classCGCoordinates_1_1XYZ" ],
+    [ "XZ", "d7/d0d/classCGCoordinates_1_1XZ.html", "d7/d0d/classCGCoordinates_1_1XZ" ],
+    [ "Y", "d5/d9e/classCGCoordinates_1_1Y.html", "d5/d9e/classCGCoordinates_1_1Y" ],
+    [ "YZ", "dd/da8/classCGCoordinates_1_1YZ.html", "dd/da8/classCGCoordinates_1_1YZ" ],
+    [ "Z", "d7/df8/classCGCoordinates_1_1Z.html", "d7/df8/classCGCoordinates_1_1Z" ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#ad0e76ffe27cb81644aaddf9f0876aad6", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#ab80c6862405ac3b4687b8309e5caee2b", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#ad2165d58038f1bc54df7ffb928086e1c", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#ae937834cdbb4beb5420287f8f751b57e", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#af42eb7647fa5dc804eb4b2d40b2a3406", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#a36ad176da99fd68d13c038609a1a37f0", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#ac5e07c504c926f55510174c962cf3904", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#a9d6dd11b72004f4bc4e94fe78f5a82e2", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#a9ed6bbaeb20c9dae8cca7955a77c187e", null ],
+    [ "spaceEvenly", "d2/daf/namespaceCGCoordinates.html#aab323c6afa9e500f646f1647225d4208", null ]
+];

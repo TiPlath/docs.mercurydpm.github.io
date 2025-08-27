@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01GeneralisedNewtonianProjectableAxisymmetricTaylodd4d51505b2586f1026bb874336afc4e =
+[
+    [ "FaceGeometry", "da/d1e/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01GeneralisedNewtonianProjectableAxisymmetricTaylodd4d51505b2586f1026bb874336afc4e.html#a249cbe8110ab9e5a30ca154d299d15ec", null ]
+];

@@ -1,0 +1,26 @@
+var classUnstructuredTorusProblem =
+[
+    [ "UnstructuredTorusProblem", "d3/d84/classUnstructuredTorusProblem.html#abb21962fc38c16fd06c07f77d6a6c832", null ],
+    [ "UnstructuredTorusProblem", "d3/d84/classUnstructuredTorusProblem.html#abb21962fc38c16fd06c07f77d6a6c832", null ],
+    [ "actions_after_adapt", "d3/d84/classUnstructuredTorusProblem.html#af9c3034d2bb67c35cb2acc3dd39aab16", null ],
+    [ "actions_after_adapt", "d3/d84/classUnstructuredTorusProblem.html#af9c3034d2bb67c35cb2acc3dd39aab16", null ],
+    [ "actions_before_adapt", "d3/d84/classUnstructuredTorusProblem.html#a9cb46ef37254fbc2de457a4016f4862e", null ],
+    [ "actions_before_implicit_timestep", "d3/d84/classUnstructuredTorusProblem.html#a0a05b5501bdc60ed2d67ca5f7ec320c9", null ],
+    [ "actions_before_implicit_timestep", "d3/d84/classUnstructuredTorusProblem.html#a0a05b5501bdc60ed2d67ca5f7ec320c9", null ],
+    [ "calculate_area", "d3/d84/classUnstructuredTorusProblem.html#a24473dfdeaac3f5bb59a5ec2b00c63c6", null ],
+    [ "calculate_area", "d3/d84/classUnstructuredTorusProblem.html#a24473dfdeaac3f5bb59a5ec2b00c63c6", null ],
+    [ "calculate_square_of_l2_norm", "d3/d84/classUnstructuredTorusProblem.html#a6f7daef06e3ce8c05b6d0ce77a9310ce", null ],
+    [ "calculate_square_of_l2_norm", "d3/d84/classUnstructuredTorusProblem.html#a6f7daef06e3ce8c05b6d0ce77a9310ce", null ],
+    [ "create_lagrange_multiplier_elements", "d3/d84/classUnstructuredTorusProblem.html#a6ef6ed8e657a3ce8fd688af1d838eab0", null ],
+    [ "delete_lagrange_multiplier_elements", "d3/d84/classUnstructuredTorusProblem.html#afacd5e6caac7160abb9a380cb8c3139c", null ],
+    [ "mesh_pt", "d3/d84/classUnstructuredTorusProblem.html#a0f275ee4ab785426a95387fd71af0f6b", null ],
+    [ "set_boundary_conditions", "d3/d84/classUnstructuredTorusProblem.html#ad7426714f7d8d2d962042d668ac62c96", null ],
+    [ "set_boundary_conditions", "d3/d84/classUnstructuredTorusProblem.html#ad7426714f7d8d2d962042d668ac62c96", null ],
+    [ "set_initial_condition", "d3/d84/classUnstructuredTorusProblem.html#abccb788d76d9a79ea6849c591eb5adb3", null ],
+    [ "set_initial_condition", "d3/d84/classUnstructuredTorusProblem.html#abccb788d76d9a79ea6849c591eb5adb3", null ],
+    [ "solve_system", "d3/d84/classUnstructuredTorusProblem.html#a15165a6a748c677be4028ec47f9b0bea", null ],
+    [ "solve_system", "d3/d84/classUnstructuredTorusProblem.html#a15165a6a748c677be4028ec47f9b0bea", null ],
+    [ "Backed_up_surface_mesh_pt", "d3/d84/classUnstructuredTorusProblem.html#add02e3bf43d38459980f521d82192c79", null ],
+    [ "Fluid_mesh_pt", "d3/d84/classUnstructuredTorusProblem.html#afe8b2555789beafc39b0f217f7ba4a8b", null ],
+    [ "Lagrange_multiplier_mesh_pt", "d3/d84/classUnstructuredTorusProblem.html#a6c9b9f9e87800e93d08fa2d65862eba3", null ]
+];

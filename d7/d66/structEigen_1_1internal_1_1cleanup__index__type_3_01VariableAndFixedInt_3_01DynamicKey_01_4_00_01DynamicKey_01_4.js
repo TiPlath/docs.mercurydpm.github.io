@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1cleanup__index__type_3_01VariableAndFixedInt_3_01DynamicKey_01_4_00_01DynamicKey_01_4 =
+[
+    [ "type", "d7/d66/structEigen_1_1internal_1_1cleanup__index__type_3_01VariableAndFixedInt_3_01DynamicKey_01_4_00_01DynamicKey_01_4.html#a3ba03b9d3facacb4887cd0322d80764d", null ]
+];

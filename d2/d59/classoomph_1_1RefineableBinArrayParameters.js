@@ -1,0 +1,25 @@
+var classoomph_1_1RefineableBinArrayParameters =
+[
+    [ "RefineableBinArrayParameters", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a818b4740e10aa5869981ce9f5bf1193e", null ],
+    [ "RefineableBinArrayParameters", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#ac36f41c72e582ee1d9b808a9cae8774d", null ],
+    [ "~RefineableBinArrayParameters", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#afc0752c4b4731443b5ec6e960afa61ae", null ],
+    [ "bin_array_is_recursive", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a0e7008ab131125dd1ed4118f5953848a", null ],
+    [ "depth", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a4056b694152383da1440ff8ee62811b8", null ],
+    [ "depth", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a198892de079e38ec6b7e3e39c878ffd5", null ],
+    [ "disable_bin_array_is_recursive", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#ad2922f7c04fcc8a21aec0ab8c6a0651b", null ],
+    [ "enable_bin_array_is_recursive", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#ac06c56e4dd074e6f133e0708dc7a1fb7", null ],
+    [ "max_depth", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a7d341ba18f784b2669f9e75561ea3321", null ],
+    [ "max_depth", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a5e27c9afc435df8c4980349a12373c78", null ],
+    [ "max_number_of_sample_point_per_bin", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a9a5739f3fed040e8d342d5b46f43151b", null ],
+    [ "max_number_of_sample_point_per_bin", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a0a9b5ec5cb8b505a4166e9edacc2b964", null ],
+    [ "operator=", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#ab2eba4a4d33757c00ca263880fec6add", null ],
+    [ "root_bin_array_pt", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a2e76aec48f38072750e1951f1373f5b9", null ],
+    [ "root_bin_array_pt", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a2405a7ef44b0b511a64e2410e53a4ca8", null ],
+    [ "Bin_array_is_recursive", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a1f0e523056c7a2aed792b0fabeb06bda", null ],
+    [ "Default_max_depth", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a5de4867a1cd15e1e494cb53261f0b1a7", null ],
+    [ "Default_max_number_of_sample_point_per_bin", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a0e94143bc3bdbd74d8927ea7e9c5f234", null ],
+    [ "Depth", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a298bbaa33862244e5c153c07da29636c", null ],
+    [ "Max_depth", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#a31ec6c0f07ea4ce3b5d29ae3a9e8dc11", null ],
+    [ "Max_number_of_sample_point_per_bin", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#ad6bec286a43785726d81c0bcadcb75be", null ],
+    [ "Root_bin_array_pt", "d2/d59/classoomph_1_1RefineableBinArrayParameters.html#ab4e2e5c03c4d3e725bd4f595b850bc2d", null ]
+];

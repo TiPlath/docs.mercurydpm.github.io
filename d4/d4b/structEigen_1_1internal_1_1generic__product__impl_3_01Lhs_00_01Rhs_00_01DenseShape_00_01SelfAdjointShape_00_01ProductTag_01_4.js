@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1generic__product__impl_3_01Lhs_00_01Rhs_00_01DenseShape_00_01SelfAdjointShape_00_01ProductTag_01_4 =
+[
+    [ "Scalar", "d4/d4b/structEigen_1_1internal_1_1generic__product__impl_3_01Lhs_00_01Rhs_00_01DenseShape_00_01SelfAdjointShape_00_01ProductTag_01_4.html#a6199f3dd65aad77dfb67302e2bc4550c", null ],
+    [ "scaleAndAddTo", "d4/d4b/structEigen_1_1internal_1_1generic__product__impl_3_01Lhs_00_01Rhs_00_01DenseShape_00_01SelfAdjointShape_00_01ProductTag_01_4.html#acb282096359c329ede83f39f8d21f642", null ]
+];

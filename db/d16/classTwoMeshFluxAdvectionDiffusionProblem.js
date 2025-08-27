@@ -1,0 +1,25 @@
+var classTwoMeshFluxAdvectionDiffusionProblem =
+[
+    [ "TwoMeshFluxAdvectionDiffusionProblem", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a7f3ec24317465521cb84212d1c2dc662", null ],
+    [ "~TwoMeshFluxAdvectionDiffusionProblem", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a65445b9eb9c01680d8137d1fdba05626", null ],
+    [ "TwoMeshFluxAdvectionDiffusionProblem", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a7f3ec24317465521cb84212d1c2dc662", null ],
+    [ "~TwoMeshFluxAdvectionDiffusionProblem", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a65445b9eb9c01680d8137d1fdba05626", null ],
+    [ "actions_after_adapt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#aa02be21b629b8d9809be106b27afcb59", null ],
+    [ "actions_after_adapt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#aa02be21b629b8d9809be106b27afcb59", null ],
+    [ "actions_after_newton_solve", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#ae5e1314c6772586f0fa0bc628adab7c0", null ],
+    [ "actions_after_newton_solve", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#ae5e1314c6772586f0fa0bc628adab7c0", null ],
+    [ "actions_before_adapt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a3ea654224e481f37e8bde4edb38993cc", null ],
+    [ "actions_before_adapt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a3ea654224e481f37e8bde4edb38993cc", null ],
+    [ "actions_before_newton_solve", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a05c049ca4714c5f4866d70f8bbe0f134", null ],
+    [ "actions_before_newton_solve", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a05c049ca4714c5f4866d70f8bbe0f134", null ],
+    [ "create_flux_elements", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#af01824e72ea624e25854a62e0dbd4eb9", null ],
+    [ "create_flux_elements", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#af01824e72ea624e25854a62e0dbd4eb9", null ],
+    [ "delete_flux_elements", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#ac478c7d0dc6e94cbe007287d5af69a28", null ],
+    [ "delete_flux_elements", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#ac478c7d0dc6e94cbe007287d5af69a28", null ],
+    [ "doc_solution", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a53cc08148cdf2f548939b5d09236f023", null ],
+    [ "doc_solution", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a53cc08148cdf2f548939b5d09236f023", null ],
+    [ "Bulk_mesh_pt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a08a259c028fc92133ff0f19d427194df", null ],
+    [ "Source_fct_pt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#ab285ae00430d5e15ca16211b7588d4a8", null ],
+    [ "Surface_mesh_pt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#af79e3d2eab25cdbb24cb91fa8b16b2c6", null ],
+    [ "Wind_fct_pt", "db/d16/classTwoMeshFluxAdvectionDiffusionProblem.html#a660fce846aa6ac84425e9e8b8e67933d", null ]
+];

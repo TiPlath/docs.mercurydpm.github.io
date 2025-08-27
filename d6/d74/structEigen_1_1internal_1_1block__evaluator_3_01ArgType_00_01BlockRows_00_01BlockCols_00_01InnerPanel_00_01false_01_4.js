@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1block__evaluator_3_01ArgType_00_01BlockRows_00_01BlockCols_00_01InnerPanel_00_01false_01_4 =
+[
+    [ "XprType", "d6/d74/structEigen_1_1internal_1_1block__evaluator_3_01ArgType_00_01BlockRows_00_01BlockCols_00_01InnerPanel_00_01false_01_4.html#aace900a8b95db4b5bb32d001ed47046d", null ],
+    [ "block_evaluator", "d6/d74/structEigen_1_1internal_1_1block__evaluator_3_01ArgType_00_01BlockRows_00_01BlockCols_00_01InnerPanel_00_01false_01_4.html#ac0ce75b173ee94ada4da4b09fd61f80f", null ]
+];

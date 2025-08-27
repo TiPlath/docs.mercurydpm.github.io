@@ -1,0 +1,28 @@
+var classoomph_1_1Z2ErrorEstimator =
+[
+    [ "CombinedErrorEstimateFctPt", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a75ef55e67b21ec49ed1a37d095cfa9f9", null ],
+    [ "Z2ErrorEstimator", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a1cb0328af843a8bebf5333045cea4553", null ],
+    [ "Z2ErrorEstimator", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a35186eeb792bf2b948239d19b2697ca0", null ],
+    [ "Z2ErrorEstimator", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#ab52cb1c86f2a39af3c4f10dfff02a51a", null ],
+    [ "~Z2ErrorEstimator", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a3d1e540fe046f1c55d59690932d4095d", null ],
+    [ "combined_error_fct_pt", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a1719ff79e67f2f0b2b8194a91f52d3d2", null ],
+    [ "combined_error_fct_pt", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#aa961268bfdb517d9a59a68eb159042c9", null ],
+    [ "doc_flux", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#ad84f3b903d0508093d6e2a905198b438", null ],
+    [ "get_combined_error_estimate", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a53d7a1ac66dd41b39d6794e1d00080fc", null ],
+    [ "get_element_errors", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#aa38b3ecfbb223a91bfe049d4722af6d3", null ],
+    [ "get_element_errors", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#ae0fd03123c518ed340bb534c2f6b8cc4", null ],
+    [ "get_recovered_flux_in_patch", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a0384127746b7eea7fcf0d08f2d34c647", null ],
+    [ "integral_rec", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#ac53b6d73d9e73140c92302c2aa70203a", null ],
+    [ "nrecovery_terms", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a1782984fa64738f9a8e7ca40d585597a", null ],
+    [ "operator=", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a70cc1b459e36f42e6654c25c89103319", null ],
+    [ "recovery_order", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#af7a3a28cfc05b291b438b80e87c7f5cc", null ],
+    [ "recovery_order", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#ad463b5c01e6bb5b9e4ec9b3a02f9fb4a", null ],
+    [ "reference_flux_norm", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a997dc6ba0b546a0f7363949a8d33d133", null ],
+    [ "reference_flux_norm", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a4a7902d3e80dc64406e1f367c02ec4e3", null ],
+    [ "setup_patches", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a5c8a3d6e46d9b9ba31c768cb5b026bba", null ],
+    [ "shape_rec", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#ab57514ecde88f7ae970439fd4900996a", null ],
+    [ "Combined_error_fct_pt", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a34a013732989e82f50cb7e72f25632a7", null ],
+    [ "Recovery_order", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#a9aafff3d80518811ba7d9bb12a240a7c", null ],
+    [ "Recovery_order_from_first_element", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#afa024a307366bb987b1c9ba379b837e8", null ],
+    [ "Reference_flux_norm", "d1/d8f/classoomph_1_1Z2ErrorEstimator.html#aa170691c5d84fbf0eb6dc5f480bbb187", null ]
+];

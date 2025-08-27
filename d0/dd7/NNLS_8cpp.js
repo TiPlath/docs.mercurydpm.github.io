@@ -1,0 +1,26 @@
+var NNLS_8cpp =
+[
+    [ "EIGEN_RUNTIME_NO_MALLOC", "d0/dd7/NNLS_8cpp.html#a90bf84d3e5deeec00de77460ca485842", null ],
+    [ "EIGEN_DECLARE_TEST", "d0/dd7/NNLS_8cpp.html#a197042770e5896de91c785734dae49fa", null ],
+    [ "test_nnls_default_maxIterations_is_twice_column_count", "d0/dd7/NNLS_8cpp.html#add7c01c5a3a08830f3fc3627e3458288", null ],
+    [ "test_nnls_does_not_allocate_during_solve", "d0/dd7/NNLS_8cpp.html#af4b1747cdee49c48cd36a8c5fa5dfe10", null ],
+    [ "test_nnls_handles_0x0_matrix", "d0/dd7/NNLS_8cpp.html#a5388fc9e28b9fe2ca57f056ebfe5cb0c", null ],
+    [ "test_nnls_handles_dependent_columns", "d0/dd7/NNLS_8cpp.html#a1822ffc047ed2e449d80e3df8fcf8f91", null ],
+    [ "test_nnls_handles_Mx0_matrix", "d0/dd7/NNLS_8cpp.html#a5979d4304fe938a9e48c44ddda206bac", null ],
+    [ "test_nnls_handles_wide_matrix", "d0/dd7/NNLS_8cpp.html#aa9e78913569f57587fe5ca9f117ef4c0", null ],
+    [ "test_nnls_handles_zero_rhs", "d0/dd7/NNLS_8cpp.html#ab2de7b4663f54f6a689f61316378bc47", null ],
+    [ "test_nnls_known_1", "d0/dd7/NNLS_8cpp.html#ae1de1bd3cae227557fbd67cf90f203d2", null ],
+    [ "test_nnls_known_2", "d0/dd7/NNLS_8cpp.html#a74cc5493aff4f73c5ca62e4f3fcec4f7", null ],
+    [ "test_nnls_known_3", "d0/dd7/NNLS_8cpp.html#a7a42dec775e331bb7728fa770205997a", null ],
+    [ "test_nnls_known_4", "d0/dd7/NNLS_8cpp.html#a4c8e3ebf72f0f867e3884b2fe6372990", null ],
+    [ "test_nnls_known_5", "d0/dd7/NNLS_8cpp.html#a57506ab2d08a0aac34cf8d5d7a49c586", null ],
+    [ "test_nnls_known_solution", "d0/dd7/NNLS_8cpp.html#a59b15ec8f7264e76864b4d3001f86d9e", null ],
+    [ "test_nnls_random_problem", "d0/dd7/NNLS_8cpp.html#ac0408be20bde086584dc2da4435aff26", null ],
+    [ "test_nnls_repeated_calls_to_compute_and_solve", "d0/dd7/NNLS_8cpp.html#aff9a0416f17d6a3d73c553b32eac8855", null ],
+    [ "test_nnls_returns_NoConvergence_when_maxIterations_is_too_low", "d0/dd7/NNLS_8cpp.html#a3c5453816e1c90467b3f22f134173f39", null ],
+    [ "test_nnls_small_reference_problems", "d0/dd7/NNLS_8cpp.html#af455a591daf034503ced857c99c51559", null ],
+    [ "test_nnls_special_case_solves_in_n_iterations", "d0/dd7/NNLS_8cpp.html#aba068065686bdabdc991e025dfe3eea6", null ],
+    [ "test_nnls_special_case_solves_in_zero_iterations", "d0/dd7/NNLS_8cpp.html#ac91a4dec6f84138f2762b04c865f64f5", null ],
+    [ "test_nnls_with_half_precision", "d0/dd7/NNLS_8cpp.html#a36baf513ead288ec94b793caca763390", null ],
+    [ "verify_nnls_optimality", "d0/dd7/NNLS_8cpp.html#ab36c0071afc6d5badc3026d8a2e14836", null ]
+];

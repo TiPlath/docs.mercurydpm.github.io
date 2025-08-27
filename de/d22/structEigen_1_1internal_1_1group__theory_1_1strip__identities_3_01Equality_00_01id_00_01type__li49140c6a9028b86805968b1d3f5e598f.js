@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1group__theory_1_1strip__identities_3_01Equality_00_01id_00_01type__li49140c6a9028b86805968b1d3f5e598f =
+[
+    [ "type", "de/d22/structEigen_1_1internal_1_1group__theory_1_1strip__identities_3_01Equality_00_01id_00_01type__li49140c6a9028b86805968b1d3f5e598f.html#a1f11711ae9c2172abd95c6b2a1f0cca7", null ],
+    [ "global_flags", "de/d22/structEigen_1_1internal_1_1group__theory_1_1strip__identities_3_01Equality_00_01id_00_01type__li49140c6a9028b86805968b1d3f5e598f.html#a1cb97c87926dd37beee46268be573e46", null ]
+];

@@ -1,0 +1,7 @@
+var structEigen_1_1internal_1_1traits_3_01BandMatrixWrapper_3_01CoefficientsType___00_01Rows___00_010443aed207f64dfb886372863051e853 =
+[
+    [ "CoefficientsType", "db/d19/structEigen_1_1internal_1_1traits_3_01BandMatrixWrapper_3_01CoefficientsType___00_01Rows___00_010443aed207f64dfb886372863051e853.html#a4490580d757cc47174289437824088f0", null ],
+    [ "Scalar", "db/d19/structEigen_1_1internal_1_1traits_3_01BandMatrixWrapper_3_01CoefficientsType___00_01Rows___00_010443aed207f64dfb886372863051e853.html#a89a02d9d24cb83f67c7eb8299fe96fba", null ],
+    [ "StorageIndex", "db/d19/structEigen_1_1internal_1_1traits_3_01BandMatrixWrapper_3_01CoefficientsType___00_01Rows___00_010443aed207f64dfb886372863051e853.html#aa675113c0ff0383ecbe47c203129ee83", null ],
+    [ "StorageKind", "db/d19/structEigen_1_1internal_1_1traits_3_01BandMatrixWrapper_3_01CoefficientsType___00_01Rows___00_010443aed207f64dfb886372863051e853.html#a5a5abea1db724ee408b365a3dd6e2e6c", null ]
+];

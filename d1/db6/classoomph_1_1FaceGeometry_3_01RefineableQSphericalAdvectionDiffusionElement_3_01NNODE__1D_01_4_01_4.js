@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01RefineableQSphericalAdvectionDiffusionElement_3_01NNODE__1D_01_4_01_4 =
+[
+    [ "FaceGeometry", "d1/db6/classoomph_1_1FaceGeometry_3_01RefineableQSphericalAdvectionDiffusionElement_3_01NNODE__1D_01_4_01_4.html#ae09a56009d883c69047f1c1e8f0b7b8a", null ]
+];

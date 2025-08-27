@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1dhs__pack_3_01bfloat16_00_01DataMapper_00_01Packet8bf_00_01StorageOrdc677bbeb6c1800037623c886b5308881 =
+[
+    [ "operator()", "d4/d21/structEigen_1_1internal_1_1dhs__pack_3_01bfloat16_00_01DataMapper_00_01Packet8bf_00_01StorageOrdc677bbeb6c1800037623c886b5308881.html#adb971025a9d60369867d0705ce207c9b", null ]
+];

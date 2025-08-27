@@ -1,0 +1,4 @@
+var structEigen_1_1ScalarBinaryOpTraits_3_01T_00_01typename_01NumTraits_3_01std_1_1enable__if__t_3_0b7756ebca630a659d144522e4d9d8b21 =
+[
+    [ "ReturnType", "d5/de0/structEigen_1_1ScalarBinaryOpTraits_3_01T_00_01typename_01NumTraits_3_01std_1_1enable__if__t_3_0b7756ebca630a659d144522e4d9d8b21.html#a385a56df66afb7c8ec6d1f1b48d10571", null ]
+];

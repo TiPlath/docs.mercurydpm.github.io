@@ -1,0 +1,27 @@
+var classStefanBoltzmannProblem =
+[
+    [ "StefanBoltzmannProblem", "d9/d00/classStefanBoltzmannProblem.html#a49f53b174394a01b8c113251e5bc38c0", null ],
+    [ "~StefanBoltzmannProblem", "d9/d00/classStefanBoltzmannProblem.html#aaf3f9be92ae33b2f6f0152a8e1309192", null ],
+    [ "StefanBoltzmannProblem", "d9/d00/classStefanBoltzmannProblem.html#a49f53b174394a01b8c113251e5bc38c0", null ],
+    [ "~StefanBoltzmannProblem", "d9/d00/classStefanBoltzmannProblem.html#aaf3f9be92ae33b2f6f0152a8e1309192", null ],
+    [ "actions_after_newton_solve", "d9/d00/classStefanBoltzmannProblem.html#aedc47168a091e435bcbb1e1ab20c7ec2", null ],
+    [ "actions_after_newton_solve", "d9/d00/classStefanBoltzmannProblem.html#aedc47168a091e435bcbb1e1ab20c7ec2", null ],
+    [ "actions_before_implicit_timestep", "d9/d00/classStefanBoltzmannProblem.html#ab9981dc2301b2d0c7d44ab69d7e10f1a", null ],
+    [ "actions_before_newton_solve", "d9/d00/classStefanBoltzmannProblem.html#a375d4a86d22b9b9755763dc1513bc9b7", null ],
+    [ "actions_before_newton_solve", "d9/d00/classStefanBoltzmannProblem.html#a375d4a86d22b9b9755763dc1513bc9b7", null ],
+    [ "create_melt_elements", "d9/d00/classStefanBoltzmannProblem.html#a5de1cf28faa3b99431cded7998766b82", null ],
+    [ "create_sb_elements", "d9/d00/classStefanBoltzmannProblem.html#aaf0a3714dc60655a3cf948df20d2c8c1", null ],
+    [ "doc_solution", "d9/d00/classStefanBoltzmannProblem.html#aaebec5336df033e9755b804ffabb38a7", null ],
+    [ "doc_solution", "d9/d00/classStefanBoltzmannProblem.html#a180988b2b65d4fe1479a9af496676ee7", null ],
+    [ "setup_sb_radiation", "d9/d00/classStefanBoltzmannProblem.html#a2330d268f8c7580b0bb87fc557811b03", null ],
+    [ "Bulk_mesh_pt", "d9/d00/classStefanBoltzmannProblem.html#aed32fb795c16065123f5aade1968610c", null ],
+    [ "Bulk_mesh_pt", "d9/d00/classStefanBoltzmannProblem.html#ad9e79159db0fe1d5577aea8a1327774d", null ],
+    [ "Doc_info", "d9/d00/classStefanBoltzmannProblem.html#ad0ad4ff544f2cd80ac58e77455cc2d95", null ],
+    [ "Ipt_leftmost_outer", "d9/d00/classStefanBoltzmannProblem.html#a51913561dcfac1a9d6f6ecb57e6af2ce", null ],
+    [ "Ipt_rightmost_inner", "d9/d00/classStefanBoltzmannProblem.html#af9e6ec6a78955c4b249ef99111b0e13c", null ],
+    [ "Leftmost_outer_el_pt", "d9/d00/classStefanBoltzmannProblem.html#a2b5688ec90b5cb302fe6c90f87bec6d1", null ],
+    [ "Rightmost_inner_el_pt", "d9/d00/classStefanBoltzmannProblem.html#a36ce1423842b175d9263f0463c79ea4c", null ],
+    [ "Surface_melt_mesh_pt", "d9/d00/classStefanBoltzmannProblem.html#a98f12d6d116e8bfdb1e25845dcd0f402", null ],
+    [ "Trace_file", "d9/d00/classStefanBoltzmannProblem.html#ab4c2b02cbae78c7f0c525dbc8a07ec62", null ],
+    [ "Unsteady_heat_flux_mesh_pt", "d9/d00/classStefanBoltzmannProblem.html#a3f5c9f30e9cfbef4b208584d6bacd8c4", null ]
+];

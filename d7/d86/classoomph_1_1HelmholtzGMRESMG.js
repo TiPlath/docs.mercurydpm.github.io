@@ -1,0 +1,28 @@
+var classoomph_1_1HelmholtzGMRESMG =
+[
+    [ "HelmholtzGMRESMG", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#ab686680821fe3c9ac0c0a07ccb0e7550", null ],
+    [ "~HelmholtzGMRESMG", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#aa8bdb804033f8050742706589cd8a072", null ],
+    [ "HelmholtzGMRESMG", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a7afe1fbc439c21054eaec7e152f36838", null ],
+    [ "apply_plane_rotation", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a6b9f8cacb73c1bcad749289aac649505", null ],
+    [ "clean_up_memory", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a81ddd10ccc03d6582dcadbd5cae1edda", null ],
+    [ "complex_matrix_multiplication", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#aa94abd65000a9fac33a29a1ae2f9ec73", null ],
+    [ "disable_resolve", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a842b638722cd45650da8771aea2f9e5c", null ],
+    [ "generate_plane_rotation", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#afc666c19cb09f252e63e43c3e126fb9a", null ],
+    [ "iterations", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#ad2ae5c641eae7da8c7556b646fe38d36", null ],
+    [ "operator=", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#aefa1cb22631d803db4bd131149a5c603", null ],
+    [ "preconditioner_solve", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a6050720b0d12f422e4b2983378dc53e5", null ],
+    [ "resolve", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#ad6937ea7f72719eb9e33c28c002fa380", null ],
+    [ "set_preconditioner_LHS", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a86f6bd77359a37117aeb17798b886a81", null ],
+    [ "set_preconditioner_RHS", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#ab10551b0e67b40ad91555b1e612208a2", null ],
+    [ "setup", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#ae566e34da6aa9ca70a034f7ef93a1aa5", null ],
+    [ "solve", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a3e6405af2506c7b789ba3208d0a9cf6d", null ],
+    [ "solve", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a14ba0370fbc782fa7ab9364a035a7513", null ],
+    [ "solve", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a5806236b991ac2d7fe4bc7a4f19e98fb", null ],
+    [ "solve_helper", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a3147aa77b5e71a0822cc5c661dd07e0d", null ],
+    [ "update", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a7c1c50d1a0a7bdd8a3c5dc9bb777e9b3", null ],
+    [ "Iterations", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#ae2a4718545bd42acb57aba5baa23d52f", null ],
+    [ "Matrices_storage_pt", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a5d8ae2181aecf890386ae48d81f90b42", null ],
+    [ "Matrix_can_be_deleted", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a1550b5147f7fa822e8cbc9de93f1c06f", null ],
+    [ "Preconditioner_LHS", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#a7f151e92397721fc2ae6acdd8253d685", null ],
+    [ "Resolving", "d7/d86/classoomph_1_1HelmholtzGMRESMG.html#acb64519b62c16bbec32d01c9969f746f", null ]
+];

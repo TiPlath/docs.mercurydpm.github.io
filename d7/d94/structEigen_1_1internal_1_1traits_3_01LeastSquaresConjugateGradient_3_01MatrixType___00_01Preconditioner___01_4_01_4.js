@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1traits_3_01LeastSquaresConjugateGradient_3_01MatrixType___00_01Preconditioner___01_4_01_4 =
+[
+    [ "MatrixType", "d7/d94/structEigen_1_1internal_1_1traits_3_01LeastSquaresConjugateGradient_3_01MatrixType___00_01Preconditioner___01_4_01_4.html#a8ee494de6771e4a9e64fffb3e326b07e", null ],
+    [ "Preconditioner", "d7/d94/structEigen_1_1internal_1_1traits_3_01LeastSquaresConjugateGradient_3_01MatrixType___00_01Preconditioner___01_4_01_4.html#adfd874671cdb6cae94e70c122daed1aa", null ]
+];

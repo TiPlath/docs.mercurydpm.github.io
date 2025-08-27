@@ -1,0 +1,6 @@
+var structEigen_1_1internal_1_1traits_3_01Ref_3_01PlainObjectType___00_01Options___00_01StrideType___01_4_01_4 =
+[
+    [ "match", "d5/d9e/structEigen_1_1internal_1_1traits_3_01Ref_3_01PlainObjectType___00_01Options___00_01StrideType___01_4_01_4_1_1match.html", "d5/d9e/structEigen_1_1internal_1_1traits_3_01Ref_3_01PlainObjectType___00_01Options___00_01StrideType___01_4_01_4_1_1match" ],
+    [ "PlainObjectType", "d5/d4b/structEigen_1_1internal_1_1traits_3_01Ref_3_01PlainObjectType___00_01Options___00_01StrideType___01_4_01_4.html#a3b7e3883283fd0cf3cc4478cc80e28fa", null ],
+    [ "StrideType", "d5/d4b/structEigen_1_1internal_1_1traits_3_01Ref_3_01PlainObjectType___00_01Options___00_01StrideType___01_4_01_4.html#a29321fb06a0179578f9ead8f7c7b516e", null ]
+];

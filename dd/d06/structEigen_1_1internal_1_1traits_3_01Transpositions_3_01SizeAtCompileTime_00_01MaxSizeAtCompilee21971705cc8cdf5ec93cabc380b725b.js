@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1traits_3_01Transpositions_3_01SizeAtCompileTime_00_01MaxSizeAtCompilee21971705cc8cdf5ec93cabc380b725b =
+[
+    [ "IndicesType", "dd/d06/structEigen_1_1internal_1_1traits_3_01Transpositions_3_01SizeAtCompileTime_00_01MaxSizeAtCompilee21971705cc8cdf5ec93cabc380b725b.html#aea1a838c4cd83f1f26dd2410df0707ba", null ],
+    [ "StorageKind", "dd/d06/structEigen_1_1internal_1_1traits_3_01Transpositions_3_01SizeAtCompileTime_00_01MaxSizeAtCompilee21971705cc8cdf5ec93cabc380b725b.html#a914b209944d1a4d9406f8692910ae783", null ]
+];

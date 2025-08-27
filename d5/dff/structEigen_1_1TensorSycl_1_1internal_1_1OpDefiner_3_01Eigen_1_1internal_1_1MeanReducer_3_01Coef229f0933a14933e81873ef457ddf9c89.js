@@ -1,0 +1,7 @@
+var structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coef229f0933a14933e81873ef457ddf9c89 =
+[
+    [ "PacketReturnType", "d5/dff/structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coef229f0933a14933e81873ef457ddf9c89.html#a46cd19a9cbdfab8dd9899f3b9258f3d2", null ],
+    [ "type", "d5/dff/structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coef229f0933a14933e81873ef457ddf9c89.html#a80ffb99372626223ea3a6aa4c2cc96c3", null ],
+    [ "finalise_op", "d5/dff/structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coef229f0933a14933e81873ef457ddf9c89.html#af5f4bc5c44703ea7d7c6a153c2c0f482", null ],
+    [ "get_op", "d5/dff/structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coef229f0933a14933e81873ef457ddf9c89.html#a152b297266e48a4829485c43be896fb4", null ]
+];

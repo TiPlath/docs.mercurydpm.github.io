@@ -1,0 +1,26 @@
+var classPolarNSProblem =
+[
+    [ "PolarNSProblem", "d2/d5a/classPolarNSProblem.html#a130470c50af40d90520f1e07e42ff247", null ],
+    [ "~PolarNSProblem", "d2/d5a/classPolarNSProblem.html#aa411661839d276c3fb2eb275cc7532ad", null ],
+    [ "actions_after_adapt", "d2/d5a/classPolarNSProblem.html#ae619ad778d0f042db5bb1124905e4944", null ],
+    [ "actions_after_solve", "d2/d5a/classPolarNSProblem.html#a050938ae00c3d0f152f7e534898de4d1", null ],
+    [ "actions_before_adapt", "d2/d5a/classPolarNSProblem.html#ae0a9f2fc2142f97891d7ca62c01ee841", null ],
+    [ "actions_before_newton_convergence_check", "d2/d5a/classPolarNSProblem.html#a18548e8c0ce57fb6c5da2176b2e4d2ec", null ],
+    [ "actions_before_solve", "d2/d5a/classPolarNSProblem.html#a03d115c7b9a03d5409b9859d1cd25f35", null ],
+    [ "assign_external_pressure", "d2/d5a/classPolarNSProblem.html#a7f235af37fb8a09037d197abaacca6c0", null ],
+    [ "doc_solution", "d2/d5a/classPolarNSProblem.html#a40c41db34bc6ae29c8e24c68ee478832", null ],
+    [ "element_output", "d2/d5a/classPolarNSProblem.html#a0c601f05ec83656d59354120a03907c5", null ],
+    [ "fix_pressure", "d2/d5a/classPolarNSProblem.html#ab7bf81925b95e9099de4a196107b0396", null ],
+    [ "get_Jacobian_sign", "d2/d5a/classPolarNSProblem.html#a7b324b8d4db132bb4bf4572ffc2a4a37", null ],
+    [ "get_pext", "d2/d5a/classPolarNSProblem.html#a990c185aaee022f8e68d66000b55a343", null ],
+    [ "get_shear_stress", "d2/d5a/classPolarNSProblem.html#a06292be25302632b16c34d83ad1777e4", null ],
+    [ "get_symmetry", "d2/d5a/classPolarNSProblem.html#ad2d02a96a80fba0b9cda8e4a9ab448b3", null ],
+    [ "header", "d2/d5a/classPolarNSProblem.html#a5f39c90788b544b214221c412e38bc36", null ],
+    [ "mesh_pt", "d2/d5a/classPolarNSProblem.html#a0ddd3a64dd2c58ae30d78c48c59a91f3", null ],
+    [ "output_streamfunction", "d2/d5a/classPolarNSProblem.html#a6b3674a72f007efd9b8ee6b5218485b5", null ],
+    [ "pin_boundaries", "d2/d5a/classPolarNSProblem.html#a8cccc2a883be0477f21804fc09afd890", null ],
+    [ "pin_boundaries_to_zero", "d2/d5a/classPolarNSProblem.html#afba4ab74250cfaf055172c621c428f67", null ],
+    [ "set_pext", "d2/d5a/classPolarNSProblem.html#abd2bf4d520c56fefa19c10fb11e6334a", null ],
+    [ "setup_external_pressure", "d2/d5a/classPolarNSProblem.html#a2e786c429ee6a4ed4cd780831fbd13ab", null ],
+    [ "External_pressure_data_pt", "d2/d5a/classPolarNSProblem.html#a1c582dca59e569d37575c2effb338a0d", null ]
+];

@@ -1,0 +1,4 @@
+var classAnasazi_1_1OperatorTraits_3_01double_00_01oomph_1_1DoubleMultiVector_00_01oomph_1_1DoubleMultiVectorOperator_01_4 =
+[
+    [ "Apply", "da/d08/classAnasazi_1_1OperatorTraits_3_01double_00_01oomph_1_1DoubleMultiVector_00_01oomph_1_1DoubleMultiVectorOperator_01_4.html#a08de8f353951f165e291a6074d8aea99", null ]
+];

@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Madc30da50f8e118605af819c06ced783e =
+[
+    [ "match", "d5/dff/structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Ma4327216c6bcf07e0da4be54eed995ebd.html", "d5/dff/structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Ma4327216c6bcf07e0da4be54eed995ebd" ],
+    [ "PlainObjectType", "d5/d7b/structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Madc30da50f8e118605af819c06ced783e.html#a0bffeed646be14bb72dafe3fb71b68a4", null ]
+];

@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01Dce6ab4d4618a8a7d711ee4fd66ebeba4 =
+[
+    [ "ReturnType", "d8/d85/structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01Dce6ab4d4618a8a7d711ee4fd66ebeba4.html#a3e6887b7901735b783a3f7e5065e8af2", null ],
+    [ "run", "d8/d85/structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01Dce6ab4d4618a8a7d711ee4fd66ebeba4.html#af4fa0ba69413fd6ba05f27353436d1d3", null ]
+];

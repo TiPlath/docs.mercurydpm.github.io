@@ -1,0 +1,25 @@
+var classoomph_1_1QSphericalCrouzeixRaviartElement =
+[
+    [ "QSphericalCrouzeixRaviartElement", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#aab094422f825d629e91cea28c87284b3", null ],
+    [ "dshape_and_dtest_eulerian_at_knot_spherical_nst", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a75cdf25c724edcd05b37f5bc2c29e903", null ],
+    [ "dshape_and_dtest_eulerian_spherical_nst", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#afee40460a2cfad52d95fc9681c8d6a12", null ],
+    [ "fix_pressure", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a61feca031056f09a70e1d9901d20b58b", null ],
+    [ "full_output", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a777870285a6b1534bdeb8075fcad2299", null ],
+    [ "full_output", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a1e6532c250abfc46f2c24d2ccfdcfaaa", null ],
+    [ "get_dof_numbers_for_unknowns", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#ac1512e4e346d2a9e64a280f8db7bef76", null ],
+    [ "identify_load_data", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a0a03c9da3f9b4454ebb15a80099409be", null ],
+    [ "identify_pressure_data", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#ac8e70942a4fda151ade37cdc7d466436", null ],
+    [ "ndof_types", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#af9984dcf9685e350ebb1173a511c9594", null ],
+    [ "npres_spherical_nst", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#adefc160b9cedb7638a265e4c37f2e237", null ],
+    [ "output", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a885098531e6431711647b581817af3c5", null ],
+    [ "output", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a46b94f33217c9d82921055347255b4b5", null ],
+    [ "output", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a2e829acc8cb74c743a661b63fb1aa618", null ],
+    [ "output", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a23d3c82c7dbb8c220b433d2836707136", null ],
+    [ "p_local_eqn", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a5a4508bfabe7a630fd6c685ccc59870b", null ],
+    [ "p_spherical_nst", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a793d90652542ffffade39aaf25f9cc4c", null ],
+    [ "pshape_spherical_nst", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#ae5be79781d11702c84d9493646153e36", null ],
+    [ "pshape_spherical_nst", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a25604ebbfd2720a969f2c3b6670d0d9c", null ],
+    [ "required_nvalue", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#a75ba69f53af20c9f240856d105bc12ea", null ],
+    [ "Initial_Nvalue", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#acdacde8819e9cf5655c61ae9ed91a146", null ],
+    [ "P_spherical_nst_internal_index", "db/d8c/classoomph_1_1QSphericalCrouzeixRaviartElement.html#afe49582c1bb7d3b8adb0593baf75f228", null ]
+];

@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1dense__assignment__loop__with__device_3_01Kernel_00_01CoreThreadPoolDe785c1efd0dd7b264c70b268f53cfee5 =
+[
+    [ "AssignmentFunctor", "dc/d48/structEigen_1_1internal_1_1dense__assignment__loop__with__device_3_01Kernel_00_01CoreThreadPoolDe785c1efd0dd7b264c70b268f53cfee5.html#ac68fb768d618e4af785a0d14cd8e4c26", null ],
+    [ "operator()", "dc/d48/structEigen_1_1internal_1_1dense__assignment__loop__with__device_3_01Kernel_00_01CoreThreadPoolDe785c1efd0dd7b264c70b268f53cfee5.html#a971393e83d31abb5ec317cddaaf73eb9", null ]
+];

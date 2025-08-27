@@ -1,0 +1,6 @@
+var classEigen_1_1Serializer_3_01T_00_01typename_01std_1_1enable__if__t_3_01std_1_1is__trivial_3_01T65876fa03c84e8f1228a8825197da6e6 =
+[
+    [ "deserialize", "da/d4b/classEigen_1_1Serializer_3_01T_00_01typename_01std_1_1enable__if__t_3_01std_1_1is__trivial_3_01T65876fa03c84e8f1228a8825197da6e6.html#a95c66cd29e6f8b01957d5a2b6aef8ed1", null ],
+    [ "serialize", "da/d4b/classEigen_1_1Serializer_3_01T_00_01typename_01std_1_1enable__if__t_3_01std_1_1is__trivial_3_01T65876fa03c84e8f1228a8825197da6e6.html#aa9c3d705335b8539c123a776daa5a933", null ],
+    [ "size", "da/d4b/classEigen_1_1Serializer_3_01T_00_01typename_01std_1_1enable__if__t_3_01std_1_1is__trivial_3_01T65876fa03c84e8f1228a8825197da6e6.html#aba49e048e13f9759ccfd7d1ce15b68de", null ]
+];

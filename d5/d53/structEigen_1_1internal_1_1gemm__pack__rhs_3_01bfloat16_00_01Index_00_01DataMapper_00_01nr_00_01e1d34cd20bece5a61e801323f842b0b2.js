@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1gemm__pack__rhs_3_01bfloat16_00_01Index_00_01DataMapper_00_01nr_00_01e1d34cd20bece5a61e801323f842b0b2 =
+[
+    [ "operator()", "d5/d53/structEigen_1_1internal_1_1gemm__pack__rhs_3_01bfloat16_00_01Index_00_01DataMapper_00_01nr_00_01e1d34cd20bece5a61e801323f842b0b2.html#ab299f014bd89fff2713ebf22a5bf856e", null ]
+];

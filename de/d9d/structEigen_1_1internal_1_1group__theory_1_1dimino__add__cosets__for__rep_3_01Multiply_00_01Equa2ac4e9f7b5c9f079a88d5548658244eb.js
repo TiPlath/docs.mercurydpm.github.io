@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1group__theory_1_1dimino__add__cosets__for__rep_3_01Multiply_00_01Equa2ac4e9f7b5c9f079a88d5548658244eb =
+[
+    [ "type", "de/d9d/structEigen_1_1internal_1_1group__theory_1_1dimino__add__cosets__for__rep_3_01Multiply_00_01Equa2ac4e9f7b5c9f079a88d5548658244eb.html#a8c01a5346029860ab8aa1aa4a14d96b9", null ],
+    [ "global_flags", "de/d9d/structEigen_1_1internal_1_1group__theory_1_1dimino__add__cosets__for__rep_3_01Multiply_00_01Equa2ac4e9f7b5c9f079a88d5548658244eb.html#a16b577e49513be5121d2d1b93c3f3a5e", null ]
+];

@@ -1,0 +1,28 @@
+var classoomph_1_1FoldHandler =
+[
+    [ "FoldHandler", "d4/dcb/classoomph_1_1FoldHandler.html#add39896d007559f4fb801f1c95e4ab16", null ],
+    [ "FoldHandler", "d4/dcb/classoomph_1_1FoldHandler.html#ac50106424b3fa4e3346231ec41b7a89f", null ],
+    [ "FoldHandler", "d4/dcb/classoomph_1_1FoldHandler.html#a0e39e588b48269e4f7272b78fa4b99a7", null ],
+    [ "~FoldHandler", "d4/dcb/classoomph_1_1FoldHandler.html#ab582d9ac969e0f7779a285d21a6d8e45", null ],
+    [ "bifurcation_parameter_pt", "d4/dcb/classoomph_1_1FoldHandler.html#a0e35268f1b13aa94739aaaaa366f4586", null ],
+    [ "bifurcation_type", "d4/dcb/classoomph_1_1FoldHandler.html#adb2878f53be92ea2be6cc012cbfc27ba", null ],
+    [ "eqn_number", "d4/dcb/classoomph_1_1FoldHandler.html#a30f2973860c13a183d5647a63b0c2ead", null ],
+    [ "get_djacobian_dparameter", "d4/dcb/classoomph_1_1FoldHandler.html#a674cf9fe7c065e54c95813c2baeea84c", null ],
+    [ "get_dresiduals_dparameter", "d4/dcb/classoomph_1_1FoldHandler.html#ad98b98488b683fa3ad9497b662e6e5b6", null ],
+    [ "get_eigenfunction", "d4/dcb/classoomph_1_1FoldHandler.html#aca97058722ccc1482ae8180ea8dde74c", null ],
+    [ "get_hessian_vector_products", "d4/dcb/classoomph_1_1FoldHandler.html#aa633b80f1ebdb322350c6832fe6c2b6c", null ],
+    [ "get_jacobian", "d4/dcb/classoomph_1_1FoldHandler.html#ad1bec54a2e0c5bd483ff0bf633bd6542", null ],
+    [ "get_residuals", "d4/dcb/classoomph_1_1FoldHandler.html#abfbec6da3dffeaf3b4df0ee4955101fd", null ],
+    [ "ndof", "d4/dcb/classoomph_1_1FoldHandler.html#af8e766d1faa7867a0161329566865867", null ],
+    [ "solve_augmented_block_system", "d4/dcb/classoomph_1_1FoldHandler.html#a7718a18444f6e328953dd5d5e73802f8", null ],
+    [ "solve_block_system", "d4/dcb/classoomph_1_1FoldHandler.html#abf0c7293014112731f0482e464f4daa3", null ],
+    [ "solve_full_system", "d4/dcb/classoomph_1_1FoldHandler.html#a506c9a7bb372c6d8799c6dabc9448f46", null ],
+    [ "AugmentedBlockFoldLinearSolver", "d4/dcb/classoomph_1_1FoldHandler.html#a29d9c39e6a14d2a4cc4e0d7c716579fe", null ],
+    [ "Count", "d4/dcb/classoomph_1_1FoldHandler.html#a302fed88ed8dad865616a3d050d385ad", null ],
+    [ "Ndof", "d4/dcb/classoomph_1_1FoldHandler.html#aa3f143846245ecea5967ba7c79bedf56", null ],
+    [ "Parameter_pt", "d4/dcb/classoomph_1_1FoldHandler.html#ae32fb6242e77a273f82de2c491d36314", null ],
+    [ "Phi", "d4/dcb/classoomph_1_1FoldHandler.html#a7b6ebf95bb87aab0c3df7daf841af3a8", null ],
+    [ "Problem_pt", "d4/dcb/classoomph_1_1FoldHandler.html#a2bd14323ca059b1aaef045cb9cc4013b", null ],
+    [ "Solve_which_system", "d4/dcb/classoomph_1_1FoldHandler.html#a76ecb78ebc1d48e5511b70660953f02d", null ],
+    [ "Y", "d4/dcb/classoomph_1_1FoldHandler.html#ac8697e5d9484fc0488d4c16b822c792e", null ]
+];

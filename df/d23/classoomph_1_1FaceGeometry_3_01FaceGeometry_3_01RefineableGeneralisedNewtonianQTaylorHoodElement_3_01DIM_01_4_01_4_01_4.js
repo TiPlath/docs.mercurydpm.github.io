@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01RefineableGeneralisedNewtonianQTaylorHoodElement_3_01DIM_01_4_01_4_01_4 =
+[
+    [ "FaceGeometry", "df/d23/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01RefineableGeneralisedNewtonianQTaylorHoodElement_3_01DIM_01_4_01_4_01_4.html#ad34eb4fcba90736af7510ad1e3233c60", null ]
+];

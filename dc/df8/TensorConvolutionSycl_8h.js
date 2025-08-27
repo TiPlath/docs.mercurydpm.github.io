@@ -1,0 +1,12 @@
+var TensorConvolutionSycl_8h =
+[
+    [ "EigenConvolutionKernel< Evaluator, CoeffReturnType, KernelType, Index, InputDims, Kernel_accessor, Buffer_accessor, convolution_type::CONV1D >", "df/dc5/structEigen_1_1EigenConvolutionKernel_3_01Evaluator_00_01CoeffReturnType_00_01KernelType_00_01In7d9bc47fe198f6b0f1b2af8aa5e85d7e.html", "df/dc5/structEigen_1_1EigenConvolutionKernel_3_01Evaluator_00_01CoeffReturnType_00_01KernelType_00_01In7d9bc47fe198f6b0f1b2af8aa5e85d7e" ],
+    [ "EigenConvolutionKernel< Evaluator, CoeffReturnType, KernelType, Index, InputDims, Kernel_accessor, Buffer_accessor, convolution_type::CONV2D >", "db/dfc/structEigen_1_1EigenConvolutionKernel_3_01Evaluator_00_01CoeffReturnType_00_01KernelType_00_01In02ad0cf76c6b89a09d948e57b1aea49a.html", "db/dfc/structEigen_1_1EigenConvolutionKernel_3_01Evaluator_00_01CoeffReturnType_00_01KernelType_00_01In02ad0cf76c6b89a09d948e57b1aea49a" ],
+    [ "EigenConvolutionKernel< Evaluator, CoeffReturnType, KernelType, Index, InputDims, Kernel_accessor, Buffer_accessor, convolution_type::CONV3D >", "de/d4b/structEigen_1_1EigenConvolutionKernel_3_01Evaluator_00_01CoeffReturnType_00_01KernelType_00_01Ina3b20d6496a457db615c11ac009e5142.html", "de/d4b/structEigen_1_1EigenConvolutionKernel_3_01Evaluator_00_01CoeffReturnType_00_01KernelType_00_01Ina3b20d6496a457db615c11ac009e5142" ],
+    [ "TensorEvaluator< const TensorConvolutionOp< Indices, InputArgType, KernelArgType >, Eigen::SyclDevice >", "d2/d64/structEigen_1_1TensorEvaluator_3_01const_01TensorConvolutionOp_3_01Indices_00_01InputArgType_00_6ba4111b8d93caae0f8aeb88d1a4da91.html", "d2/d64/structEigen_1_1TensorEvaluator_3_01const_01TensorConvolutionOp_3_01Indices_00_01InputArgType_00_6ba4111b8d93caae0f8aeb88d1a4da91" ],
+    [ "convolution_type", "dc/df8/TensorConvolutionSycl_8h.html#aeae138f89644546cf3e6952820a4b85b", [
+      [ "CONV1D", "dc/df8/TensorConvolutionSycl_8h.html#aeae138f89644546cf3e6952820a4b85bad7bca9bc25850ed34f31ed3c9072309b", null ],
+      [ "CONV2D", "dc/df8/TensorConvolutionSycl_8h.html#aeae138f89644546cf3e6952820a4b85ba2cafa280a722fa37eee8591ef10c012e", null ],
+      [ "CONV3D", "dc/df8/TensorConvolutionSycl_8h.html#aeae138f89644546cf3e6952820a4b85baa27b4050cc42e50d0f765582a03cc1e6", null ]
+    ] ]
+];

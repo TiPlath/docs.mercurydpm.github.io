@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01ProjectableCrouzeixRaviartElement_3_01ELEMENT_01_4_01_4_01_4 =
+[
+    [ "FaceGeometry", "d4/d0d/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01ProjectableCrouzeixRaviartElement_3_01ELEMENT_01_4_01_4_01_4.html#add234b79cf2e33891c53bb5b34ac495a", null ]
+];

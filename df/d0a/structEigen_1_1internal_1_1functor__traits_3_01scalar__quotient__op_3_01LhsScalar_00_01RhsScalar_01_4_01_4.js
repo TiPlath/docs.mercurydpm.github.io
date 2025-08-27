@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1functor__traits_3_01scalar__quotient__op_3_01LhsScalar_00_01RhsScalar_01_4_01_4 =
+[
+    [ "result_type", "df/d0a/structEigen_1_1internal_1_1functor__traits_3_01scalar__quotient__op_3_01LhsScalar_00_01RhsScalar_01_4_01_4.html#a0df80996f58a35f2f39da5fe07af5771", null ]
+];

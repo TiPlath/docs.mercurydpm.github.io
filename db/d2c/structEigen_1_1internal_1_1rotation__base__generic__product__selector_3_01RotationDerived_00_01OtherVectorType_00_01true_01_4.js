@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01OtherVectorType_00_01true_01_4 =
+[
+    [ "ReturnType", "db/d2c/structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01OtherVectorType_00_01true_01_4.html#a9916e9895c20072f96014a3f26137781", null ],
+    [ "run", "db/d2c/structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01OtherVectorType_00_01true_01_4.html#acfd1798f465474344d93478b104ff21e", null ]
+];

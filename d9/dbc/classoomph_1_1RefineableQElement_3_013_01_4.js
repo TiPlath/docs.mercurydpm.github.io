@@ -1,0 +1,25 @@
+var classoomph_1_1RefineableQElement_3_013_01_4 =
+[
+    [ "VoidMemFctPt", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ad23b3146537ecd540f79f485cc1d9e3f", null ],
+    [ "RefineableQElement", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#afebcbfcb8c222f8912043b0c9513a945", null ],
+    [ "RefineableQElement", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#a354e648b777d6a963a2d71357e742b7a", null ],
+    [ "~RefineableQElement", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#abbdc6a7895845fd7a30ecc5b35be2764", null ],
+    [ "build", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ac085ca58b7eefb81628275e2b7ab07ce", null ],
+    [ "check_integrity", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ac956bd05c434861ba65b0431024c1072", null ],
+    [ "further_setup_hanging_nodes", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#aae91537ebb3f511bf48397b3324f424a", null ],
+    [ "get_bcs", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#aac2601ff8f740680675e5e6ba5c35e9d", null ],
+    [ "get_boundaries", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ac61083ce6abe6338ec5d7795d9f1e051", null ],
+    [ "get_face_bcs", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ab7548543df38dcc3a011d51c6ed357ac", null ],
+    [ "interpolated_zeta_on_face", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#aa0feadb4fbbe8861366a77373b122293", null ],
+    [ "node_created_by_neighbour", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ac5676804b139e7a02c0a06a16a913316", null ],
+    [ "node_created_by_son_of_neighbour", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#aba1fb9ba01bbf6eaa478203d0d2403d0", null ],
+    [ "oc_hang_helper", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#abde04c6b8616bd2551b24ac1abade563", null ],
+    [ "octree_pt", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ae80b5899ce103e76f1ccea34d371c2ed", null ],
+    [ "octree_pt", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#a58e295694d08140d1060f79005129fb9", null ],
+    [ "output_corners", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#aa8ea5cf2c9fee8ff9a1c52505e736bbb", null ],
+    [ "required_nsons", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#a1eff24cfc9bead67647d7df95dad97c8", null ],
+    [ "setup_father_bounds", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#a8e9be85046f3898ece0a328512392ca8", null ],
+    [ "setup_hang_for_value", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#a3d38b1cfacb055140a330e3d251b601f", null ],
+    [ "setup_hanging_nodes", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#ab1300b5bdb62b11aeb88df3268c6ba92", null ],
+    [ "Father_bound", "d9/dbc/classoomph_1_1RefineableQElement_3_013_01_4.html#a0c02f69b5f451db97099acb1e2960738", null ]
+];

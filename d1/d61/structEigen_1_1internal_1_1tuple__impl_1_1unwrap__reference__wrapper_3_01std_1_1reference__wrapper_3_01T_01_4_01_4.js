@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1tuple__impl_1_1unwrap__reference__wrapper_3_01std_1_1reference__wrapper_3_01T_01_4_01_4 =
+[
+    [ "type", "d1/d61/structEigen_1_1internal_1_1tuple__impl_1_1unwrap__reference__wrapper_3_01std_1_1reference__wrapper_3_01T_01_4_01_4.html#a1b22449842ffdc91649ea45a49b4ce6d", null ]
+];

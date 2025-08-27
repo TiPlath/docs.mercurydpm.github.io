@@ -1,0 +1,26 @@
+var matrices_8h =
+[
+    [ "Matrix", "d6/d74/classoomph_1_1Matrix.html", "d6/d74/classoomph_1_1Matrix" ],
+    [ "DoubleMatrixBase", "dc/df5/classoomph_1_1DoubleMatrixBase.html", "dc/df5/classoomph_1_1DoubleMatrixBase" ],
+    [ "DenseMatrix", "d6/d13/classoomph_1_1DenseMatrix.html", "d6/d13/classoomph_1_1DenseMatrix" ],
+    [ "SparseMatrix", "d6/d24/classoomph_1_1SparseMatrix.html", "d6/d24/classoomph_1_1SparseMatrix" ],
+    [ "CRMatrix", "d4/def/classoomph_1_1CRMatrix.html", "d4/def/classoomph_1_1CRMatrix" ],
+    [ "CRDoubleMatrix", "d6/dd4/classoomph_1_1CRDoubleMatrix.html", "d6/dd4/classoomph_1_1CRDoubleMatrix" ],
+    [ "CRDoubleMatrixComparisonHelper", "d1/d96/structoomph_1_1CRDoubleMatrix_1_1CRDoubleMatrixComparisonHelper.html", "d1/d96/structoomph_1_1CRDoubleMatrix_1_1CRDoubleMatrixComparisonHelper" ],
+    [ "DenseDoubleMatrix", "dd/d03/classoomph_1_1DenseDoubleMatrix.html", "dd/d03/classoomph_1_1DenseDoubleMatrix" ],
+    [ "RankThreeTensor", "da/d84/classoomph_1_1RankThreeTensor.html", "da/d84/classoomph_1_1RankThreeTensor" ],
+    [ "RankFourTensor", "d7/dbb/classoomph_1_1RankFourTensor.html", "d7/dbb/classoomph_1_1RankFourTensor" ],
+    [ "RankFiveTensor", "d1/d42/classoomph_1_1RankFiveTensor.html", "d1/d42/classoomph_1_1RankFiveTensor" ],
+    [ "CCMatrix", "d8/d33/classoomph_1_1CCMatrix.html", "d8/d33/classoomph_1_1CCMatrix" ],
+    [ "CCDoubleMatrix", "d4/d2d/classoomph_1_1CCDoubleMatrix.html", "d4/d2d/classoomph_1_1CCDoubleMatrix" ],
+    [ "OOMPH_INITIALISE_DENSE_MATRICES", "d1/dd8/matrices_8h.html#a001c6c8469d37b6d59800b89b648c4d5", null ],
+    [ "concatenate", "d1/dd8/matrices_8h.html#ab7e3ac344aa644292a143a3917a03e65", null ],
+    [ "concatenate_without_communication", "d1/dd8/matrices_8h.html#ac04e094c973da752da4b76071ad09f44", null ],
+    [ "concatenate_without_communication", "d1/dd8/matrices_8h.html#a996568831ca0db90f080560dd400b3d6", null ],
+    [ "create_uniformly_distributed_matrix", "d1/dd8/matrices_8h.html#ae3c10e59d5857457c7e34be8e9262035", null ],
+    [ "deep_copy", "d1/dd8/matrices_8h.html#a157511f700993ab8bc014f9d0d44f4c7", null ],
+    [ "gershgorin_eigenvalue_estimate", "d1/dd8/matrices_8h.html#a02b5962dbe2bbfb93f54b668100afffc", null ],
+    [ "inf_norm", "d1/dd8/matrices_8h.html#ab17222c9461096e3d5b8cf6250524644", null ],
+    [ "RayBool", "d1/dd8/matrices_8h.html#ae792a9ead71fdc3c728f5cf843c257d3", null ],
+    [ "RayStr", "d1/dd8/matrices_8h.html#aeb3f04d09ecf50524c3a913b35a10f82", null ]
+];

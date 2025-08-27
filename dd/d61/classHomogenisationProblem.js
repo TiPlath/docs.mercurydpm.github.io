@@ -1,0 +1,28 @@
+var classHomogenisationProblem =
+[
+    [ "HomogenisationProblem", "dd/d61/classHomogenisationProblem.html#a1224c22c4b4a4b64277b60d31da3bc52", null ],
+    [ "~HomogenisationProblem", "dd/d61/classHomogenisationProblem.html#a928235775f02542ed6e21d5a2f23afea", null ],
+    [ "HomogenisationProblem", "dd/d61/classHomogenisationProblem.html#a1224c22c4b4a4b64277b60d31da3bc52", null ],
+    [ "~HomogenisationProblem", "dd/d61/classHomogenisationProblem.html#a928235775f02542ed6e21d5a2f23afea", null ],
+    [ "actions_after_newton_solve", "dd/d61/classHomogenisationProblem.html#aa06e686107b95aaed9a5c76d98eaf778", null ],
+    [ "actions_after_newton_solve", "dd/d61/classHomogenisationProblem.html#aa06e686107b95aaed9a5c76d98eaf778", null ],
+    [ "actions_before_newton_solve", "dd/d61/classHomogenisationProblem.html#a68bf320c8d1b29ea59e54ff688c47562", null ],
+    [ "actions_before_newton_solve", "dd/d61/classHomogenisationProblem.html#a68bf320c8d1b29ea59e54ff688c47562", null ],
+    [ "calculate_coefficients", "dd/d61/classHomogenisationProblem.html#aef0186e48fdaa54349017ead9b45850f", null ],
+    [ "calculate_coefficients", "dd/d61/classHomogenisationProblem.html#aef0186e48fdaa54349017ead9b45850f", null ],
+    [ "complete_problem_setup", "dd/d61/classHomogenisationProblem.html#a552724e628020a08af2c2d3a3ec730d2", null ],
+    [ "complete_problem_setup", "dd/d61/classHomogenisationProblem.html#a552724e628020a08af2c2d3a3ec730d2", null ],
+    [ "doc_solution", "dd/d61/classHomogenisationProblem.html#a4c9b525981ba1e90ed728ee588aa3443", null ],
+    [ "doc_solution", "dd/d61/classHomogenisationProblem.html#a4c9b525981ba1e90ed728ee588aa3443", null ],
+    [ "solve", "dd/d61/classHomogenisationProblem.html#a4a36471f7d7bb2c4662e5ea7f67ddc5b", null ],
+    [ "solve", "dd/d61/classHomogenisationProblem.html#a4a36471f7d7bb2c4662e5ea7f67ddc5b", null ],
+    [ "sub_solve", "dd/d61/classHomogenisationProblem.html#a84dd8d514cb8d00039a07dad27230386", null ],
+    [ "sub_solve", "dd/d61/classHomogenisationProblem.html#a84dd8d514cb8d00039a07dad27230386", null ],
+    [ "Bulk_mesh_pt", "dd/d61/classHomogenisationProblem.html#a9a785996cc4ec5f3c89244a5978043df", null ],
+    [ "C_eff", "dd/d61/classHomogenisationProblem.html#ae2429d10a1ef24d431a44c607bb87c93", null ],
+    [ "Inclusion_polygon_pt", "dd/d61/classHomogenisationProblem.html#ab67f816849e2552f1b2cd8f9037ad3ac", null ],
+    [ "Internal_circle_pt", "dd/d61/classHomogenisationProblem.html#aae15f1cc50038922894e10bf4f7565b7", null ],
+    [ "M", "dd/d61/classHomogenisationProblem.html#afc48bce8fc33fa47a49ad78ae2a68e8e", null ],
+    [ "Outer_boundary_polyline_pt", "dd/d61/classHomogenisationProblem.html#ac15ac75f7c08eb6032c1ba65c44d1de5", null ],
+    [ "P", "dd/d61/classHomogenisationProblem.html#ae7aeaf71fc7026d05f971ea6964f0abe", null ]
+];

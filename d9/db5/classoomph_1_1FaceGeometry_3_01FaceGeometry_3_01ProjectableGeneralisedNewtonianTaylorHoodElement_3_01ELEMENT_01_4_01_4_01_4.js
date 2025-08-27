@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01ProjectableGeneralisedNewtonianTaylorHoodElement_3_01ELEMENT_01_4_01_4_01_4 =
+[
+    [ "FaceGeometry", "d9/db5/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01ProjectableGeneralisedNewtonianTaylorHoodElement_3_01ELEMENT_01_4_01_4_01_4.html#a00185ff30c2452b90c6cec7e2a0c92a5", null ]
+];

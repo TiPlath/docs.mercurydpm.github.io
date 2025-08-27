@@ -1,0 +1,6 @@
+var structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coeffb4df5ce1bcf355570b5024ad8da9ef2 =
+[
+    [ "type", "d0/d62/structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coeffb4df5ce1bcf355570b5024ad8da9ef2.html#ab38d4182f9e7df3d13d8d9ce1d4e1ad4", null ],
+    [ "finalise_op", "d0/d62/structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coeffb4df5ce1bcf355570b5024ad8da9ef2.html#a45aa4751c7709ba60556b82f9244e548", null ],
+    [ "get_op", "d0/d62/structEigen_1_1TensorSycl_1_1internal_1_1OpDefiner_3_01Eigen_1_1internal_1_1MeanReducer_3_01Coeffb4df5ce1bcf355570b5024ad8da9ef2.html#a0350c8bd50ad093ba185b50cae4489ca", null ]
+];

@@ -1,0 +1,25 @@
+var classoomph_1_1EulerEquations =
+[
+    [ "EulerEquations", "d2/dbd/classoomph_1_1EulerEquations.html#af24bad78c998c9d476c6bf0753af4ced", null ],
+    [ "~EulerEquations", "d2/dbd/classoomph_1_1EulerEquations.html#a0c60500b3b841a4065b588b55e6dfc49", null ],
+    [ "allocate_memory_for_averages", "d2/dbd/classoomph_1_1EulerEquations.html#aee507c1b94ee9a6bdfd77db410ca85e8", null ],
+    [ "average_gradient", "d2/dbd/classoomph_1_1EulerEquations.html#a0e83b231a00250adc6da3069b9936cc1", null ],
+    [ "average_prim_value", "d2/dbd/classoomph_1_1EulerEquations.html#adc564d7d1f93e710167b9aa8c089da0c", null ],
+    [ "compute_error", "d2/dbd/classoomph_1_1EulerEquations.html#a3e277760413c4b27b3eae150b1d212b1", null ],
+    [ "Default_Gamma_Value", "d2/dbd/classoomph_1_1EulerEquations.html#a48786dc00ef6c17c264871b700a45aef", null ],
+    [ "Default_Gamma_Value", "d2/dbd/classoomph_1_1EulerEquations.html#aff0b7eb721c766bb0cdb3ad6d2e70840", null ],
+    [ "Default_Gamma_Value", "d2/dbd/classoomph_1_1EulerEquations.html#ac97dd8908ab76fab97fb0dba0c7b9a43", null ],
+    [ "flux", "d2/dbd/classoomph_1_1EulerEquations.html#a2596b0523e6e40d3ece23f9fd0c6d97c", null ],
+    [ "gamma", "d2/dbd/classoomph_1_1EulerEquations.html#a51f474519ebab18d4b8504fa4b414d16", null ],
+    [ "gamma_pt", "d2/dbd/classoomph_1_1EulerEquations.html#afa267c8b6e4a6ed4938d572ae90cd5de", null ],
+    [ "gamma_pt", "d2/dbd/classoomph_1_1EulerEquations.html#aec33261b153f07968bdc4277ca1aa5ad", null ],
+    [ "nflux", "d2/dbd/classoomph_1_1EulerEquations.html#a6bf35d53c8c306df8865192ef85cc08f", null ],
+    [ "output", "d2/dbd/classoomph_1_1EulerEquations.html#a4478d473edbda3529602c75f70cafe30", null ],
+    [ "output", "d2/dbd/classoomph_1_1EulerEquations.html#a9d51d5bcc096341b6f73353d87def5b3", null ],
+    [ "pressure", "d2/dbd/classoomph_1_1EulerEquations.html#a227a4ad24989e3d1e50e41815436791f", null ],
+    [ "required_nvalue", "d2/dbd/classoomph_1_1EulerEquations.html#a94116a7673c825ab36ed1d57f3cb8a62", null ],
+    [ "Average_gradient", "d2/dbd/classoomph_1_1EulerEquations.html#a716de77d64cecd2947b6f2cbf3effbda", null ],
+    [ "Average_prim_value", "d2/dbd/classoomph_1_1EulerEquations.html#a2a0682d90bb2ae74a2e6cb1ef0e106db", null ],
+    [ "Default_Gamma_Value", "d2/dbd/classoomph_1_1EulerEquations.html#ae5afff2a26816dd230386b3c1b15d7dd", null ],
+    [ "Gamma_pt", "d2/dbd/classoomph_1_1EulerEquations.html#a5dd362769200e19bd966d85c883beaa0", null ]
+];

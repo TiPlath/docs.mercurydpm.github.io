@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1eval_3_01TensorBroadcastingOp_3_01Broadcast_00_01XprType_01_4_00_01Eigen_1_1Dense_01_4 =
+[
+    [ "type", "d6/d7c/structEigen_1_1internal_1_1eval_3_01TensorBroadcastingOp_3_01Broadcast_00_01XprType_01_4_00_01Eigen_1_1Dense_01_4.html#ab82f3092ae0bcbc309df959eaf7b00b3", null ]
+];

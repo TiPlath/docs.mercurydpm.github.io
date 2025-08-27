@@ -1,0 +1,27 @@
+var classDropInChannelProblem =
+[
+    [ "DropInChannelProblem", "d9/dee/classDropInChannelProblem.html#aad6e79f5560a5bfcba325f6558afb4ff", null ],
+    [ "~DropInChannelProblem", "d9/dee/classDropInChannelProblem.html#aa311cd8061b915901c8c74617d2e4a37", null ],
+    [ "actions_after_adapt", "d9/dee/classDropInChannelProblem.html#af5cc96bc60c2fd2386d16eac3ee5f83a", null ],
+    [ "actions_after_newton_solve", "d9/dee/classDropInChannelProblem.html#ab38a14018a4093afe7cc0d9db9f1fc3b", null ],
+    [ "actions_before_adapt", "d9/dee/classDropInChannelProblem.html#a4d4ae7fdef14f9838a46cc45278c7920", null ],
+    [ "actions_before_newton_solve", "d9/dee/classDropInChannelProblem.html#a0e229343783fd73768dfa0a2672e9ad1", null ],
+    [ "complete_problem_setup", "d9/dee/classDropInChannelProblem.html#a3a868202b34b195a78298b4eaf7d3aff", null ],
+    [ "compute_error_estimate", "d9/dee/classDropInChannelProblem.html#a49944969eb8dc6892cab3f1a9a2cb382", null ],
+    [ "create_free_surface_elements", "d9/dee/classDropInChannelProblem.html#a73b989e3bedbd3630f576b0dba0f724f", null ],
+    [ "create_volume_constraint_elements", "d9/dee/classDropInChannelProblem.html#a53b96cd50b4e6c9bee294b8fb7dd51bd", null ],
+    [ "delete_free_surface_elements", "d9/dee/classDropInChannelProblem.html#a4463a1b341429f5a2c84a493aabb3a14", null ],
+    [ "delete_volume_constraint_elements", "d9/dee/classDropInChannelProblem.html#aec42cdf762f8b64c064db84df7f40f0a", null ],
+    [ "doc_solution", "d9/dee/classDropInChannelProblem.html#a3bcebc0cd731b75db441f3e1d62296ae", null ],
+    [ "remove_volume_constraint", "d9/dee/classDropInChannelProblem.html#ab8a7491ab12974ccc4cc10bfc0f20675", null ],
+    [ "Drop_polygon_pt", "d9/dee/classDropInChannelProblem.html#abccd5c5d075bf179150c3d0df25dcea9", null ],
+    [ "Drop_pressure_data_pt", "d9/dee/classDropInChannelProblem.html#ada417f705745bf3e6612f5a9a0a5ef78", null ],
+    [ "Fluid_mesh_pt", "d9/dee/classDropInChannelProblem.html#a1f16a75afe9aad09be325d409a4a1b0d", null ],
+    [ "Free_surface_mesh_pt", "d9/dee/classDropInChannelProblem.html#a6de0bac4bc483d500aa215a59bbf25bc", null ],
+    [ "Hijacked_element_pt", "d9/dee/classDropInChannelProblem.html#af88997c3a40755063c21e4a95601600a", null ],
+    [ "Initial_value_for_drop_pressure", "d9/dee/classDropInChannelProblem.html#a0b54287d521735c003d32b71f4f925c3", null ],
+    [ "Outer_boundary_polyline_pt", "d9/dee/classDropInChannelProblem.html#aebc1a038a715fd269319b1fb091f0b26", null ],
+    [ "Use_volume_constraint", "d9/dee/classDropInChannelProblem.html#aa555cfd96e802218280acd0165f974dd", null ],
+    [ "Vol_constraint_el_pt", "d9/dee/classDropInChannelProblem.html#ac7476353270d83e26d60f817c371572c", null ],
+    [ "Volume_constraint_mesh_pt", "d9/dee/classDropInChannelProblem.html#ac5f5480fe22c40a175a0b5c0ce39fa05", null ]
+];

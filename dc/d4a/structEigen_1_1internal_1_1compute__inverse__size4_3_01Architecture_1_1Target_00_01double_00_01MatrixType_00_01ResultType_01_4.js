@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1compute__inverse__size4_3_01Architecture_1_1Target_00_01double_00_01MatrixType_00_01ResultType_01_4 =
+[
+    [ "ActualMatrixType", "dc/d4a/structEigen_1_1internal_1_1compute__inverse__size4_3_01Architecture_1_1Target_00_01double_00_01MatrixType_00_01ResultType_01_4.html#abddb419f478548b3856c77f9bac04ff9", null ],
+    [ "run", "dc/d4a/structEigen_1_1internal_1_1compute__inverse__size4_3_01Architecture_1_1Target_00_01double_00_01MatrixType_00_01ResultType_01_4.html#a10dead9864726b0c10cf1089d375d64f", null ]
+];

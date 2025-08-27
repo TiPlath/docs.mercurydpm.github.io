@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01RefineableQCrouzeixRaviartElement_3_01DIM_01_4_01_4_01_4 =
+[
+    [ "FaceGeometry", "d0/dda/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01RefineableQCrouzeixRaviartElement_3_01DIM_01_4_01_4_01_4.html#af3742715a4d40830eee7b4adb8bd92f3", null ]
+];

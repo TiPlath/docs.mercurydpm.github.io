@@ -1,0 +1,28 @@
+var classRefineableQAdvectionDiffusionElementWithExternalElement =
+[
+    [ "RefineableQAdvectionDiffusionElementWithExternalElement", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a9fdeb4d301cfea75bab14045aa61827b", null ],
+    [ "RefineableQAdvectionDiffusionElementWithExternalElement", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a9fdeb4d301cfea75bab14045aa61827b", null ],
+    [ "compute_error", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a6a559c50ace98df479843a29148a6039", null ],
+    [ "compute_error", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a9b6b7ec191738f4122dd96e9d80e1eff", null ],
+    [ "fill_in_contribution_to_jacobian", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#ae05ab0a77190df45e929548728cb0c57", null ],
+    [ "fill_in_contribution_to_jacobian", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#ae05ab0a77190df45e929548728cb0c57", null ],
+    [ "fill_in_contribution_to_jacobian_and_mass_matrix", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#ab37f8001971b713482070f0e28427a5e", null ],
+    [ "fill_in_contribution_to_jacobian_and_mass_matrix", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#ab37f8001971b713482070f0e28427a5e", null ],
+    [ "fill_in_contribution_to_residuals", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#af9569538eb81218cb241385ef59caa4f", null ],
+    [ "fill_in_contribution_to_residuals", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#af9569538eb81218cb241385ef59caa4f", null ],
+    [ "fill_in_off_diagonal_block_analytic", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#ad5ec9fa38eb7bafdbbd93d94bc4f5ea7", null ],
+    [ "fill_in_off_diagonal_block_analytic", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#ad5ec9fa38eb7bafdbbd93d94bc4f5ea7", null ],
+    [ "get_dof_numbers_for_unknowns", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a042271b32ae3f1e18a87a1486d9076e1", null ],
+    [ "get_dwind_adv_diff_dexternal_element_data", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a5ba323a5a4f7e749abf29c390edab779", null ],
+    [ "get_dwind_adv_diff_dexternal_element_data", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a5ba323a5a4f7e749abf29c390edab779", null ],
+    [ "get_wind_adv_diff", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a3a290f371b343b52628a7e221d5c1090", null ],
+    [ "get_wind_adv_diff", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a3a290f371b343b52628a7e221d5c1090", null ],
+    [ "ndof_types", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a92efe42f6f588dd45688e832a15adfb2", null ],
+    [ "output", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a9a1c5a9b636553b56d08f54f9c212a02", null ],
+    [ "output", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a956fa3c122c7be5208a621826afdabd0", null ],
+    [ "output", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a93fc298811e0c94350ae683d9b565fbc", null ],
+    [ "output", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a0351034a36ea5ddb640054999b1c22b3", null ],
+    [ "output_fct", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a8a4cf0dfa40d34e1f6afb1f5f83aa32e", null ],
+    [ "output_fct", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#a8bbf0bad67c9730b39b2a7990bd97160", null ],
+    [ "required_nvalue", "d0/df1/classRefineableQAdvectionDiffusionElementWithExternalElement.html#af009788a807a0eaadde96de8663a2525", null ]
+];

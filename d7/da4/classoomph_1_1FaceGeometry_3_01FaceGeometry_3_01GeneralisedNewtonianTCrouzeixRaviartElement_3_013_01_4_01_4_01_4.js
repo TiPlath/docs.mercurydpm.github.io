@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01GeneralisedNewtonianTCrouzeixRaviartElement_3_013_01_4_01_4_01_4 =
+[
+    [ "FaceGeometry", "d7/da4/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01GeneralisedNewtonianTCrouzeixRaviartElement_3_013_01_4_01_4_01_4.html#a6b071928cc28dfc1203dd24cdd341745", null ]
+];

@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseVector_3_01MatScalar_00_01MatOptions_00_01Mafc0e4e8ac9fc95a0e09eb86efbd2be2a =
+[
+    [ "type", "d5/d04/structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseVector_3_01MatScalar_00_01MatOptions_00_01Mafc0e4e8ac9fc95a0e09eb86efbd2be2a.html#a80327b55e4884cb881e9ae5fc397ca91", null ]
+];

@@ -1,0 +1,25 @@
+var classoomph_1_1RefineableQElement_3_012_01_4 =
+[
+    [ "VoidMemberFctPt", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a418221e0f1056066064405e6f0795383", null ],
+    [ "RefineableQElement", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a86f01d876e3a09794ff05833e35363e4", null ],
+    [ "RefineableQElement", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#adfa77cd45eecb02bbaa3efea4225a0f8", null ],
+    [ "~RefineableQElement", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#ac2cd2cdd621bff16699a41edc1f5cb1f", null ],
+    [ "build", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a1226bff1b077a092766cedc2a12a350f", null ],
+    [ "check_integrity", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a8f06b44d8fc378c3a3e256c9181e6b50", null ],
+    [ "further_setup_hanging_nodes", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a01e1eb063dd2c98ebb42d87959ca6b88", null ],
+    [ "get_bcs", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a7aaf952d8dfdcf6ed85f42bc0e7bbef2", null ],
+    [ "get_boundaries", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a739ecb3d2eff4c9d08efa79a39d387b0", null ],
+    [ "get_edge_bcs", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a00bdd114af9683a6097acdf4d11912ae", null ],
+    [ "interpolated_zeta_on_edge", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#af7796513af01efa2ad009876e81abe3b", null ],
+    [ "node_created_by_neighbour", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#acf706049e7394cafa3d5f979222b907e", null ],
+    [ "node_created_by_son_of_neighbour", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#ae989507794716d3ab8d0d2fd32dce28f", null ],
+    [ "output_corners", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#ac14c3c0281921b093497b76f0f51064a", null ],
+    [ "quad_hang_helper", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a711171287234070046a02bbf56ed2664", null ],
+    [ "quadtree_pt", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a7402a8119195f3684559ae200db41bb6", null ],
+    [ "quadtree_pt", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a0a55f85fb8d6696a58bd4b54cd091d50", null ],
+    [ "required_nsons", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#aac8b41efa9e63826756b390da15644bb", null ],
+    [ "setup_father_bounds", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#ae72bc768135f78c574710524293bdbe2", null ],
+    [ "setup_hang_for_value", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a8bbe1fddb5da77e580fd1d2f90468061", null ],
+    [ "setup_hanging_nodes", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a708cd19748ee70eafefe614b32c4c25c", null ],
+    [ "Father_bound", "d6/d5d/classoomph_1_1RefineableQElement_3_012_01_4.html#a95f17825b651c0ce6ec5daa2dd7c8fde", null ]
+];

@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1traits_3_01FullPivHouseholderQRMatrixQReturnType_3_01MatrixType_00_01PermutationIndex_01_4_01_4 =
+[
+    [ "ReturnType", "db/dc2/structEigen_1_1internal_1_1traits_3_01FullPivHouseholderQRMatrixQReturnType_3_01MatrixType_00_01PermutationIndex_01_4_01_4.html#a1d3b981931758310b7da54daac5ddb55", null ]
+];

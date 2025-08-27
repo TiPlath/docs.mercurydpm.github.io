@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1functor__traits_3_01minmax__coeff__visitor_3_01Derived_00_01is__min_00_01NaNPropagation_01_4_01_4 =
+[
+    [ "Scalar", "de/d84/structEigen_1_1internal_1_1functor__traits_3_01minmax__coeff__visitor_3_01Derived_00_01is__min_00_01NaNPropagation_01_4_01_4.html#ad128c4df3fd5ecdd518393302de64f8d", null ]
+];

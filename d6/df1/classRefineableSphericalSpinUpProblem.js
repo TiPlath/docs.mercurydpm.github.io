@@ -1,0 +1,28 @@
+var classRefineableSphericalSpinUpProblem =
+[
+    [ "RefineableSphericalSpinUpProblem", "d6/df1/classRefineableSphericalSpinUpProblem.html#a0e781c009e3684d2917790f8bd76660b", null ],
+    [ "~RefineableSphericalSpinUpProblem", "d6/df1/classRefineableSphericalSpinUpProblem.html#a13e52dd32ee5c3004ffc0956974d38df", null ],
+    [ "RefineableSphericalSpinUpProblem", "d6/df1/classRefineableSphericalSpinUpProblem.html#a0e781c009e3684d2917790f8bd76660b", null ],
+    [ "~RefineableSphericalSpinUpProblem", "d6/df1/classRefineableSphericalSpinUpProblem.html#a13e52dd32ee5c3004ffc0956974d38df", null ],
+    [ "actions_after_adapt", "d6/df1/classRefineableSphericalSpinUpProblem.html#ac911035672b28d4a75d5296a43ebccbb", null ],
+    [ "actions_after_adapt", "d6/df1/classRefineableSphericalSpinUpProblem.html#ac911035672b28d4a75d5296a43ebccbb", null ],
+    [ "actions_after_implicit_timestep", "d6/df1/classRefineableSphericalSpinUpProblem.html#a112e6cb37f6a6af2ee3dddd8a619c67a", null ],
+    [ "actions_after_implicit_timestep", "d6/df1/classRefineableSphericalSpinUpProblem.html#a112e6cb37f6a6af2ee3dddd8a619c67a", null ],
+    [ "actions_after_newton_solve", "d6/df1/classRefineableSphericalSpinUpProblem.html#a43c0334e62eb7f88888649a5b0d8c110", null ],
+    [ "actions_after_newton_solve", "d6/df1/classRefineableSphericalSpinUpProblem.html#a43c0334e62eb7f88888649a5b0d8c110", null ],
+    [ "actions_before_implicit_timestep", "d6/df1/classRefineableSphericalSpinUpProblem.html#a1578a52c5b09bcb1a3f19f65c91a7a32", null ],
+    [ "actions_before_implicit_timestep", "d6/df1/classRefineableSphericalSpinUpProblem.html#a1578a52c5b09bcb1a3f19f65c91a7a32", null ],
+    [ "actions_before_newton_solve", "d6/df1/classRefineableSphericalSpinUpProblem.html#a99368193551ba37e060b26aff1822e54", null ],
+    [ "actions_before_newton_solve", "d6/df1/classRefineableSphericalSpinUpProblem.html#a99368193551ba37e060b26aff1822e54", null ],
+    [ "doc_solution", "d6/df1/classRefineableSphericalSpinUpProblem.html#ab25c09d2d2f3b691cf74e5ff3e195473", null ],
+    [ "doc_solution", "d6/df1/classRefineableSphericalSpinUpProblem.html#ab25c09d2d2f3b691cf74e5ff3e195473", null ],
+    [ "fix_pressure", "d6/df1/classRefineableSphericalSpinUpProblem.html#a4d4284801b591509db990f2532d0b1c7", null ],
+    [ "fix_pressure", "d6/df1/classRefineableSphericalSpinUpProblem.html#a4d4284801b591509db990f2532d0b1c7", null ],
+    [ "mesh_pt", "d6/df1/classRefineableSphericalSpinUpProblem.html#a1246f8c7a31cdd105cdd87989da7657d", null ],
+    [ "mesh_pt", "d6/df1/classRefineableSphericalSpinUpProblem.html#ae2dcf35cc2bb679bb5b39bfe2c1ff3c5", null ],
+    [ "set_boundary_conditions", "d6/df1/classRefineableSphericalSpinUpProblem.html#aaa131e04fac8040a0ca9a0b3e2c3b821", null ],
+    [ "set_boundary_conditions", "d6/df1/classRefineableSphericalSpinUpProblem.html#aaa131e04fac8040a0ca9a0b3e2c3b821", null ],
+    [ "set_initial_condition", "d6/df1/classRefineableSphericalSpinUpProblem.html#a2c30294ebbd95eafe595f87a608f867b", null ],
+    [ "set_initial_condition", "d6/df1/classRefineableSphericalSpinUpProblem.html#a2c30294ebbd95eafe595f87a608f867b", null ],
+    [ "Curved_boundary_pt", "d6/df1/classRefineableSphericalSpinUpProblem.html#a9137d33fbb16ced7239a0c278853e050", null ]
+];

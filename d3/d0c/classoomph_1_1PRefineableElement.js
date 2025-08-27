@@ -1,0 +1,25 @@
+var classoomph_1_1PRefineableElement =
+[
+    [ "PRefineableElement", "d3/d0c/classoomph_1_1PRefineableElement.html#aeaac46015434fba4a9de7dc33073ff86", null ],
+    [ "~PRefineableElement", "d3/d0c/classoomph_1_1PRefineableElement.html#a5b96194fe6780017d5b2b768658bea48", null ],
+    [ "PRefineableElement", "d3/d0c/classoomph_1_1PRefineableElement.html#a55a27c5a3d6f0b82aa3fd714960ef6e0", null ],
+    [ "deselect_for_p_refinement", "d3/d0c/classoomph_1_1PRefineableElement.html#ae09fd11dea8f804c352a447a6bbdfb9a", null ],
+    [ "deselect_for_p_unrefinement", "d3/d0c/classoomph_1_1PRefineableElement.html#a9885c7f63cc66df42692505f2261dc88", null ],
+    [ "disable_p_refinement", "d3/d0c/classoomph_1_1PRefineableElement.html#a7947f3fe08f0545cdffb3a6b773d4cf5", null ],
+    [ "enable_p_refinement", "d3/d0c/classoomph_1_1PRefineableElement.html#a0c3aaa6e93d92bc06700016c1a195f32", null ],
+    [ "initial_p_order", "d3/d0c/classoomph_1_1PRefineableElement.html#a6babd48e981414ad54cbfc1d89977f43", null ],
+    [ "nodes_built", "d3/d0c/classoomph_1_1PRefineableElement.html#a18a6ec4187845d2dbad763ba284ffcc2", null ],
+    [ "operator=", "d3/d0c/classoomph_1_1PRefineableElement.html#a4b315647b925147201031ea34c724de3", null ],
+    [ "p_order", "d3/d0c/classoomph_1_1PRefineableElement.html#a399d686caa2f65fff9c825d1ff55f053", null ],
+    [ "p_order", "d3/d0c/classoomph_1_1PRefineableElement.html#ad1c4ca3d701eaca833fc9404b068c8f7", null ],
+    [ "p_refine", "d3/d0c/classoomph_1_1PRefineableElement.html#a706db9352965197a215405f620b3cedc", null ],
+    [ "p_refinement_is_enabled", "d3/d0c/classoomph_1_1PRefineableElement.html#a086636c6717bb5bbe7e31123bc0cd511", null ],
+    [ "select_for_p_refinement", "d3/d0c/classoomph_1_1PRefineableElement.html#a89ecf3e300ea9c7dd37ce981053377f4", null ],
+    [ "select_for_p_unrefinement", "d3/d0c/classoomph_1_1PRefineableElement.html#a99c9cb3bc0a1d6877f58e741f9b36df4", null ],
+    [ "to_be_p_refined", "d3/d0c/classoomph_1_1PRefineableElement.html#a988945bf2c1eef6c406033e506705cf7", null ],
+    [ "to_be_p_unrefined", "d3/d0c/classoomph_1_1PRefineableElement.html#a0060b4224c7db8c950448f736a1ce597", null ],
+    [ "P_order", "d3/d0c/classoomph_1_1PRefineableElement.html#a7d13c61af8c4b8a85b89340217ebdaf2", null ],
+    [ "P_refinement_is_enabled", "d3/d0c/classoomph_1_1PRefineableElement.html#acb52daa14da59b4770bc22fcf3f98d14", null ],
+    [ "To_be_p_refined", "d3/d0c/classoomph_1_1PRefineableElement.html#a79dbebfb2142f80c2d3095c9a060b873", null ],
+    [ "To_be_p_unrefined", "d3/d0c/classoomph_1_1PRefineableElement.html#a8b7f94da147a1639c4ba40464f768c32", null ]
+];

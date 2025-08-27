@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1lapacke__helpers_1_1translate__type__imp_3_01std_1_1complex_3_01float_01_4_01_4 =
+[
+    [ "type", "df/da5/structEigen_1_1internal_1_1lapacke__helpers_1_1translate__type__imp_3_01std_1_1complex_3_01float_01_4_01_4.html#ac74c4469dab55cc259968f7d8234158a", null ]
+];

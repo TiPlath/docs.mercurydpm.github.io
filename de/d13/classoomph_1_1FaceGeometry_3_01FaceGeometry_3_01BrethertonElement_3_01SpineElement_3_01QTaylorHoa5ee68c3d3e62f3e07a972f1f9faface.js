@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01BrethertonElement_3_01SpineElement_3_01QTaylorHoa5ee68c3d3e62f3e07a972f1f9faface =
+[
+    [ "FaceGeometry", "de/d13/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01BrethertonElement_3_01SpineElement_3_01QTaylorHoa5ee68c3d3e62f3e07a972f1f9faface.html#a35e4c88e39164f318d20e3c7e4ddadc1", null ]
+];

@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1non__integral__type__placement__new_3_01Eigen_1_1SyclDevice_00_01CoeffReturnType_01_4 =
+[
+    [ "operator()", "d0/d17/structEigen_1_1internal_1_1non__integral__type__placement__new_3_01Eigen_1_1SyclDevice_00_01CoeffReturnType_01_4.html#aa9381c236512c936a5ff8ab5ad53cd75", null ]
+];

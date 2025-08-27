@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1functor__traits_3_01scalar__atan2__op_3_01LhsScalar_00_01RhsScalar_01_4_01_4 =
+[
+    [ "Scalar", "dd/db4/structEigen_1_1internal_1_1functor__traits_3_01scalar__atan2__op_3_01LhsScalar_00_01RhsScalar_01_4_01_4.html#a7d2d8ca5bf7fa7f74e9dd0d2f3ad9d88", null ]
+];

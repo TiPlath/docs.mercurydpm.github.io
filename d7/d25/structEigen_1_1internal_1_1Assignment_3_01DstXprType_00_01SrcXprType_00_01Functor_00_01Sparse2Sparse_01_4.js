@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1Assignment_3_01DstXprType_00_01SrcXprType_00_01Functor_00_01Sparse2Sparse_01_4 =
+[
+    [ "run", "d7/d25/structEigen_1_1internal_1_1Assignment_3_01DstXprType_00_01SrcXprType_00_01Functor_00_01Sparse2Sparse_01_4.html#a6611277406152002f37cb9c1e06eb463", null ]
+];

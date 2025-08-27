@@ -1,0 +1,7 @@
+var structEigen_1_1internal_1_1traits_3_01BlockSparseMatrix_3_01Scalar___00_01__BlockAtCompileTime_0b1d022c0eadc903e81f8eb0c4ae06a00 =
+[
+    [ "Index", "de/d2f/structEigen_1_1internal_1_1traits_3_01BlockSparseMatrix_3_01Scalar___00_01__BlockAtCompileTime_0b1d022c0eadc903e81f8eb0c4ae06a00.html#a23183b0976ab3111a7272a9cad4a1783", null ],
+    [ "Scalar", "de/d2f/structEigen_1_1internal_1_1traits_3_01BlockSparseMatrix_3_01Scalar___00_01__BlockAtCompileTime_0b1d022c0eadc903e81f8eb0c4ae06a00.html#a87593962fa6cb47a79a46371917f31e0", null ],
+    [ "StorageKind", "de/d2f/structEigen_1_1internal_1_1traits_3_01BlockSparseMatrix_3_01Scalar___00_01__BlockAtCompileTime_0b1d022c0eadc903e81f8eb0c4ae06a00.html#abe7e0fefe322a10087ff513b3ed4291b", null ],
+    [ "XprKind", "de/d2f/structEigen_1_1internal_1_1traits_3_01BlockSparseMatrix_3_01Scalar___00_01__BlockAtCompileTime_0b1d022c0eadc903e81f8eb0c4ae06a00.html#a4264b4a026344eb65af1a6c08f2f9682", null ]
+];

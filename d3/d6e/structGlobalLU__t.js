@@ -1,0 +1,26 @@
+var structGlobalLU__t =
+[
+    [ "expanders", "d3/d6e/structGlobalLU__t.html#a15ba088f0bde94312a7ed6cbfecf7e67", null ],
+    [ "lsub", "d3/d6e/structGlobalLU__t.html#a826aa0459fee745ec40cd8d7c31ddcbd", null ],
+    [ "lusup", "d3/d6e/structGlobalLU__t.html#acc7533550bb4c3479635a704ebfa9eb1", null ],
+    [ "lusup", "d3/d6e/structGlobalLU__t.html#a726d0a12957a3de9a841b833b8451c09", null ],
+    [ "lusup", "d3/d6e/structGlobalLU__t.html#a2c939400d4e502551f9b64edd27f614a", null ],
+    [ "lusup", "d3/d6e/structGlobalLU__t.html#a2a029c0f5964a535c8ec85911987b639", null ],
+    [ "MemModel", "d3/d6e/structGlobalLU__t.html#a9089591bf01db5135a9d52cb732b0f3c", null ],
+    [ "n", "d3/d6e/structGlobalLU__t.html#a48fcf5a7ff751514d92feeb40370fe5e", null ],
+    [ "num_expansions", "d3/d6e/structGlobalLU__t.html#a1923c63f76eab75f5022f025c25a82a7", null ],
+    [ "nzlmax", "d3/d6e/structGlobalLU__t.html#a1f77873222d31cd15eb781fdbf18df18", null ],
+    [ "nzlumax", "d3/d6e/structGlobalLU__t.html#ae67b1da1b096e92b7ddadf6e4a159481", null ],
+    [ "nzumax", "d3/d6e/structGlobalLU__t.html#a5238cd65bea5ca45046238d908073982", null ],
+    [ "stack", "d3/d6e/structGlobalLU__t.html#a9c8f24b1d7ed85996df0ab869b472b0e", null ],
+    [ "supno", "d3/d6e/structGlobalLU__t.html#ac575b30349d7f23a92a4662f2a10f7ff", null ],
+    [ "ucol", "d3/d6e/structGlobalLU__t.html#af9e46ab287726ab6be2c22cca773856d", null ],
+    [ "ucol", "d3/d6e/structGlobalLU__t.html#a7cfad10c14a658b4079b75c4d980bca8", null ],
+    [ "ucol", "d3/d6e/structGlobalLU__t.html#a2542f90c18839f310699cb3e4722626f", null ],
+    [ "ucol", "d3/d6e/structGlobalLU__t.html#a3fbdc21b78d160d4cbe9f4c435381586", null ],
+    [ "usub", "d3/d6e/structGlobalLU__t.html#a82284bf60f17d1e382e3a119f1cec460", null ],
+    [ "xlsub", "d3/d6e/structGlobalLU__t.html#a11adbaf38d57b4e811de9d124361f4d1", null ],
+    [ "xlusup", "d3/d6e/structGlobalLU__t.html#a12843837c9bb0679ca7f02d853667a85", null ],
+    [ "xsup", "d3/d6e/structGlobalLU__t.html#afbf1224e8b84fe4228a346e8a15a201f", null ],
+    [ "xusub", "d3/d6e/structGlobalLU__t.html#a062c5af94df0f66ab60439edd6516834", null ]
+];

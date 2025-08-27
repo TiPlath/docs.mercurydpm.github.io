@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1traits_3_01Map_3_01PlainObjectType_00_01MapOptions_00_01StrideType_01_4_01_4 =
+[
+    [ "TraitsBase", "d7/d98/structEigen_1_1internal_1_1traits_3_01Map_3_01PlainObjectType_00_01MapOptions_00_01StrideType_01_4_01_4.html#a90f1edf2f2637a65bed060bb57b0c43e", null ]
+];

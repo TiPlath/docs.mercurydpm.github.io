@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1traits_3_01IndexedView_3_01XprType_00_01RowIndices_00_01ColIndices_01_4_01_4 =
+[
+    [ "BlockType", "d8/ddf/structEigen_1_1internal_1_1traits_3_01IndexedView_3_01XprType_00_01RowIndices_00_01ColIndices_01_4_01_4.html#a33a44ac51b6724efb116bd55f337b4a1", null ]
+];

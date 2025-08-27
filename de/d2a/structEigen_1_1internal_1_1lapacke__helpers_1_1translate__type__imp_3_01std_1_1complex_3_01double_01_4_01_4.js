@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1lapacke__helpers_1_1translate__type__imp_3_01std_1_1complex_3_01double_01_4_01_4 =
+[
+    [ "type", "de/d2a/structEigen_1_1internal_1_1lapacke__helpers_1_1translate__type__imp_3_01std_1_1complex_3_01double_01_4_01_4.html#a8089fabe9d0823c85d75c3d7b5087da1", null ]
+];

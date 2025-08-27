@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1eval_3_01TensorReshapingOp_3_01NewDimensions_00_01XprType_01_4_00_01Eigen_1_1Dense_01_4 =
+[
+    [ "type", "d9/da8/structEigen_1_1internal_1_1eval_3_01TensorReshapingOp_3_01NewDimensions_00_01XprType_01_4_00_01Eigen_1_1Dense_01_4.html#a9286d77e963e5c1e8bb14c9b2aa85a6c", null ]
+];

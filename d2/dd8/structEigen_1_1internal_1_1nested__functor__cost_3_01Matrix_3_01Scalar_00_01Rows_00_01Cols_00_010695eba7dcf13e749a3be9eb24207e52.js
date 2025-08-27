@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1nested__functor__cost_3_01Matrix_3_01Scalar_00_01Rows_00_01Cols_00_010695eba7dcf13e749a3be9eb24207e52 =
+[
+    [ "Cost", "d2/dd8/structEigen_1_1internal_1_1nested__functor__cost_3_01Matrix_3_01Scalar_00_01Rows_00_01Cols_00_010695eba7dcf13e749a3be9eb24207e52.html#a4bb84d124d3feede3626f001594059f9", null ]
+];

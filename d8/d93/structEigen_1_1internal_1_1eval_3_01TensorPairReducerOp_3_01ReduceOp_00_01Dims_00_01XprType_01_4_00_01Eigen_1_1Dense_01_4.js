@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1eval_3_01TensorPairReducerOp_3_01ReduceOp_00_01Dims_00_01XprType_01_4_00_01Eigen_1_1Dense_01_4 =
+[
+    [ "type", "d8/d93/structEigen_1_1internal_1_1eval_3_01TensorPairReducerOp_3_01ReduceOp_00_01Dims_00_01XprType_01_4_00_01Eigen_1_1Dense_01_4.html#a81d41d260f4e88acac08a4ed7f7148b3", null ]
+];

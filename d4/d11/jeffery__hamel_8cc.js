@@ -1,0 +1,25 @@
+var jeffery__hamel_8cc =
+[
+    [ "PolarNSProblem", "d2/d5a/classPolarNSProblem.html", "d2/d5a/classPolarNSProblem" ],
+    [ "main", "d4/d11/jeffery__hamel_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4", null ],
+    [ "traction_function", "d4/d11/jeffery__hamel_8cc.html#aab7279f3af529ebc76b9ad4c653d4093", null ],
+    [ "adaptive", "d4/d11/jeffery__hamel_8cc.html#a0d50f750f4f6c55ea3f7cb245166443c", null ],
+    [ "epsilon", "d4/d11/jeffery__hamel_8cc.html#a520995a99fdf37236eb7670cae350d50", null ],
+    [ "eta_inlet", "d4/d11/jeffery__hamel_8cc.html#aa1a823d0e560f5151939e71939238468", null ],
+    [ "eta_outlet", "d4/d11/jeffery__hamel_8cc.html#ae1d8acb71382caeb20d602231fa2ed63", null ],
+    [ "inlet_traction", "d4/d11/jeffery__hamel_8cc.html#aad3e01e69c9a9d0a8e9799a8a77395ce", null ],
+    [ "log_mesh", "d4/d11/jeffery__hamel_8cc.html#a68a7c23bd09503d02683a3cdb425087c", null ],
+    [ "new_outlet_region", "d4/d11/jeffery__hamel_8cc.html#a55619da6238d39660977c0e77504c0c4", null ],
+    [ "outlet_traction", "d4/d11/jeffery__hamel_8cc.html#a62e691abcb595748bb0187b28b93ad6e", null ],
+    [ "pinv", "d4/d11/jeffery__hamel_8cc.html#a1205ee84d167dc4fe4724a1b91cb6445", null ],
+    [ "R_l", "d4/d11/jeffery__hamel_8cc.html#a87dd196f9ade651ec87ab046a1496783", null ],
+    [ "R_r", "d4/d11/jeffery__hamel_8cc.html#ad0b1c4450b917777f1559f47f5dba068", null ],
+    [ "Rmax", "d4/d11/jeffery__hamel_8cc.html#afeafeb620278891ecc3bcc0364999c32", null ],
+    [ "Rmax_prestart", "d4/d11/jeffery__hamel_8cc.html#a4e5a8d1a514a0989494691e630bb9a0e", null ],
+    [ "Rstep", "d4/d11/jeffery__hamel_8cc.html#a558e431f45ede10ec19ecdeb5b9e45b9", null ],
+    [ "Rstep_prestart", "d4/d11/jeffery__hamel_8cc.html#a7a9180a861ff851265215d1da6d13227", null ],
+    [ "stokes", "d4/d11/jeffery__hamel_8cc.html#ab2ea597d8d7ef5e4c13748a8d6542f64", null ],
+    [ "uniform", "d4/d11/jeffery__hamel_8cc.html#a729b41d4452ab8b4cad2fff17eafa501", null ],
+    [ "xmesh", "d4/d11/jeffery__hamel_8cc.html#a77b4bd18b0e456e944360e2ce6192b42", null ],
+    [ "ymesh", "d4/d11/jeffery__hamel_8cc.html#a00cbe067af9279292663b8bc845ce551", null ]
+];

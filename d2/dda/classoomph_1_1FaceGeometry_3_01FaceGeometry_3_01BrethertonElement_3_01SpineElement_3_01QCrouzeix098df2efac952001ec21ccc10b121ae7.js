@@ -1,0 +1,4 @@
+var classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01BrethertonElement_3_01SpineElement_3_01QCrouzeix098df2efac952001ec21ccc10b121ae7 =
+[
+    [ "FaceGeometry", "d2/dda/classoomph_1_1FaceGeometry_3_01FaceGeometry_3_01BrethertonElement_3_01SpineElement_3_01QCrouzeix098df2efac952001ec21ccc10b121ae7.html#a52eb404b07af95adc77be5b560f7186b", null ]
+];

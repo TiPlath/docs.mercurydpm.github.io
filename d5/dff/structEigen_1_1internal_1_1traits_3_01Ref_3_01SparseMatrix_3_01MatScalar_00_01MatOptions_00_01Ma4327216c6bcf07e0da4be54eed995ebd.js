@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Ma4327216c6bcf07e0da4be54eed995ebd =
+[
+    [ "type", "d5/dff/structEigen_1_1internal_1_1traits_3_01Ref_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Ma4327216c6bcf07e0da4be54eed995ebd.html#a641f7cbd5d8d1157267b263a8b807635", null ]
+];

@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1maybe__coherent__pad__helper_3_01DerivativeType_00_01OtherDerivativeT6435afd1e2674be50688f338729a9a3c =
+[
+    [ "type", "d4/d41/structEigen_1_1internal_1_1maybe__coherent__pad__helper_3_01DerivativeType_00_01OtherDerivativeT6435afd1e2674be50688f338729a9a3c.html#aa64d0ec5a8920d9dcd01d04afda76194", null ],
+    [ "pad", "d4/d41/structEigen_1_1internal_1_1maybe__coherent__pad__helper_3_01DerivativeType_00_01OtherDerivativeT6435afd1e2674be50688f338729a9a3c.html#afd237c3b30e51796f0dbe30ba4c26b53", null ]
+];

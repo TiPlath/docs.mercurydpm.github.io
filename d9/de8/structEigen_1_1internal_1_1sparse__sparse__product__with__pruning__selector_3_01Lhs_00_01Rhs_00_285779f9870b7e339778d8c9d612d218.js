@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1sparse__sparse__product__with__pruning__selector_3_01Lhs_00_01Rhs_00_285779f9870b7e339778d8c9d612d218 =
+[
+    [ "RealScalar", "d9/de8/structEigen_1_1internal_1_1sparse__sparse__product__with__pruning__selector_3_01Lhs_00_01Rhs_00_285779f9870b7e339778d8c9d612d218.html#ac278b297a10554f7a626bec7b3c0e4ac", null ],
+    [ "run", "d9/de8/structEigen_1_1internal_1_1sparse__sparse__product__with__pruning__selector_3_01Lhs_00_01Rhs_00_285779f9870b7e339778d8c9d612d218.html#a77924e7e4cd8a2d3bf5dca49ad937ee8", null ]
+];

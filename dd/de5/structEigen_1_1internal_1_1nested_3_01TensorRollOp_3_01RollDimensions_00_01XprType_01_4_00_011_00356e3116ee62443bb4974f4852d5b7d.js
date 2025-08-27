@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1nested_3_01TensorRollOp_3_01RollDimensions_00_01XprType_01_4_00_011_00356e3116ee62443bb4974f4852d5b7d =
+[
+    [ "type", "dd/de5/structEigen_1_1internal_1_1nested_3_01TensorRollOp_3_01RollDimensions_00_01XprType_01_4_00_011_00356e3116ee62443bb4974f4852d5b7d.html#a9ad4c9a40ce0c47aff211c6cad8f0956", null ]
+];

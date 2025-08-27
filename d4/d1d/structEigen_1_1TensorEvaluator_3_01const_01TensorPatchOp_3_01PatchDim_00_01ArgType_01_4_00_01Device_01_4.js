@@ -1,0 +1,28 @@
+var structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4 =
+[
+    [ "CoeffReturnType", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a6921e72db8b0e4ac399f4aad8f9d2484", null ],
+    [ "Dimensions", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a1ed4d5345bd633995cad775675c0a198", null ],
+    [ "EvaluatorPointerType", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#aee889cb5f1fa6288dcade7ce5181a795", null ],
+    [ "Index", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a68265b14f0e55fb56685402a7cf0339a", null ],
+    [ "PacketReturnType", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a674566605a007a4be509ee71a0b65434", null ],
+    [ "Scalar", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a3475ebe2620a3a38d69bffe44d0e2df7", null ],
+    [ "Storage", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a8ec387dc576699296d161f9fa9057fb7", null ],
+    [ "TensorBlock", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#af2e439a8279cb6957e65c44ff340cfea", null ],
+    [ "XprType", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a3d9bbd83769f227f20e1d8829ea5c85e", null ],
+    [ "TensorEvaluator", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a36bae0e3283a50d9d8fdc642b49dfcd9", null ],
+    [ "cleanup", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a19908301ef23f87425975d7f66c658e2", null ],
+    [ "coeff", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a7ac55dd235996537e3e59c7eaa7dcc0f", null ],
+    [ "costPerCoeff", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a0e12e21ca6e32a8aeb7d3d0ba99266a1", null ],
+    [ "data", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#ad81d8cb2ab96a6828a434f7cbc44f0fe", null ],
+    [ "dimensions", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#aa7b83c681e0c4c1cfcd693c6548333d4", null ],
+    [ "evalSubExprsIfNeeded", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#aad9fbd56e0def5984c7c4783cfd50085", null ],
+    [ "packet", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a53571c797e2f5fdc9485a7ff3e1f5136", null ],
+    [ "Layout", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#afd4f96b4828d559d2eb8488252337d8c", null ],
+    [ "m_dimensions", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a04c0242ce2e107781774906e28af0448", null ],
+    [ "m_impl", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a29ffb2e57dda9f281fa45458e8195271", null ],
+    [ "m_inputStrides", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#af878d306414b33c3e2877d47805c5645", null ],
+    [ "m_outputStrides", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a57081360e8a7991135a621052aad05a5", null ],
+    [ "m_patchStrides", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a85598f79a329e01b0a6cfb8b134b466f", null ],
+    [ "NumDims", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#a2e538713ee454957a3e10f43edad6429", null ],
+    [ "PacketSize", "d4/d1d/structEigen_1_1TensorEvaluator_3_01const_01TensorPatchOp_3_01PatchDim_00_01ArgType_01_4_00_01Device_01_4.html#ae227f8c22e499e7b062e3863c28fd347", null ]
+];

@@ -1,0 +1,25 @@
+var classHopperInsertionBoundary =
+[
+    [ "HopperInsertionBoundary", "d7/d9f/classHopperInsertionBoundary.html#a54b211eb3eeb877997a19f89a13126a7", null ],
+    [ "HopperInsertionBoundary", "d7/d9f/classHopperInsertionBoundary.html#ab6f10c648d0487e0873e85c144157711", null ],
+    [ "copy", "d7/d9f/classHopperInsertionBoundary.html#a6a547234cc106957dd135bbeb0dcea06", null ],
+    [ "getName", "d7/d9f/classHopperInsertionBoundary.html#ae3102fea310fa49ffb5627f18959e469", null ],
+    [ "placeParticle", "d7/d9f/classHopperInsertionBoundary.html#ab9984c9b0bcf0bf5c1b58a6d91561e03", null ],
+    [ "read", "d7/d9f/classHopperInsertionBoundary.html#ae1096711ea885296b60a5620328ef970", null ],
+    [ "set", "d7/d9f/classHopperInsertionBoundary.html#a32197758a233728d13b7e57883a37aae", null ],
+    [ "set", "d7/d9f/classHopperInsertionBoundary.html#acb4aae890a392d65818d563cec58ef01", null ],
+    [ "set", "d7/d9f/classHopperInsertionBoundary.html#a8ebfbfd53a378b992d54f4ec7b9f4062", null ],
+    [ "write", "d7/d9f/classHopperInsertionBoundary.html#a356531722119944818b375edc4ae7510", null ],
+    [ "chuteAngle_", "d7/d9f/classHopperInsertionBoundary.html#ae8d97b58cf688576038554276bd10329", null ],
+    [ "fillPercent_", "d7/d9f/classHopperInsertionBoundary.html#ab3a9e240790fb0a4813bec53a05c5a6a", null ],
+    [ "fixedParticleRadius_", "d7/d9f/classHopperInsertionBoundary.html#a30c8bb532c8a9f98b68542978f14b650", null ],
+    [ "hopperAngle_", "d7/d9f/classHopperInsertionBoundary.html#a901830291c6eeae9feff4cdb10398f1b", null ],
+    [ "hopperDim_", "d7/d9f/classHopperInsertionBoundary.html#a7e2884bcdd896736c03133d9ea6528ed", null ],
+    [ "hopperExitLength_", "d7/d9f/classHopperInsertionBoundary.html#a710a40224a1ccdb81b1893151f60f821", null ],
+    [ "hopperHeight_", "d7/d9f/classHopperInsertionBoundary.html#a9d72459ae97bad1e9b66e7aa94a071ac", null ],
+    [ "hopperLength_", "d7/d9f/classHopperInsertionBoundary.html#aa2dcff6601cdccfa72b739347cf8ce86", null ],
+    [ "isHopperCentred__", "d7/d9f/classHopperInsertionBoundary.html#ab39069ad078951b7ba9b1931d5e1cf06", null ],
+    [ "lift_", "d7/d9f/classHopperInsertionBoundary.html#aa71fc4e45e939181dc113f392f079aed", null ],
+    [ "yMax_", "d7/d9f/classHopperInsertionBoundary.html#acdc96e0d07d16a858fd585b6a1e9389b", null ],
+    [ "yMin_", "d7/d9f/classHopperInsertionBoundary.html#a015664a89f4cae9b6c0a9da8546cc851", null ]
+];

@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1traits_3_01Map_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Ma84aa94a010b63df14ce7f42d9aeea962 =
+[
+    [ "PlainObjectType", "dd/d66/structEigen_1_1internal_1_1traits_3_01Map_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Ma84aa94a010b63df14ce7f42d9aeea962.html#a00054a6ab89045686238964923b02996", null ],
+    [ "TraitsBase", "dd/d66/structEigen_1_1internal_1_1traits_3_01Map_3_01SparseMatrix_3_01MatScalar_00_01MatOptions_00_01Ma84aa94a010b63df14ce7f42d9aeea962.html#a515426d8fed72750e4815acd12da5aa0", null ]
+];

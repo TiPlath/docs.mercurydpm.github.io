@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1global__math__functions__filtering__base_3_01T_00_01typename_01always513b858d4d7d3b23755da6b07d6c651e =
+[
+    [ "type", "d3/da9/structEigen_1_1internal_1_1global__math__functions__filtering__base_3_01T_00_01typename_01always513b858d4d7d3b23755da6b07d6c651e.html#a435532153415f72c680e30561e0005c4", null ]
+];

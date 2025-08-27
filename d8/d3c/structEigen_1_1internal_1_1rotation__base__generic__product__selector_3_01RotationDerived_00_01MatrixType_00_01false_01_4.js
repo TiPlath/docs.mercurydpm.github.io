@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01MatrixType_00_01false_01_4 =
+[
+    [ "ReturnType", "d8/d3c/structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01MatrixType_00_01false_01_4.html#a4952f696bba09765dd532c5628dc3684", null ],
+    [ "run", "d8/d3c/structEigen_1_1internal_1_1rotation__base__generic__product__selector_3_01RotationDerived_00_01MatrixType_00_01false_01_4.html#a4b6de128f1557d57efdaef40aaee06b7", null ]
+];

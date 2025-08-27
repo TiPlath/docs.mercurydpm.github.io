@@ -1,0 +1,4 @@
+var structEigen_1_1internal_1_1evaluator__traits_3_01BandMatrixWrapper_3_01CoefficientsType___00_01Recb605d299cf164d5dd8f92bf8963145 =
+[
+    [ "Shape", "d0/dc0/structEigen_1_1internal_1_1evaluator__traits_3_01BandMatrixWrapper_3_01CoefficientsType___00_01Recb605d299cf164d5dd8f92bf8963145.html#adce474148b2011f3d5bdabb1dd0e0222", null ]
+];

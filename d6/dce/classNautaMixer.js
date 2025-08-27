@@ -1,0 +1,27 @@
+var classNautaMixer =
+[
+    [ "addBaseWall", "d6/dce/classNautaMixer.html#a1a5f5b50d95b13935cd71ef346285468", null ],
+    [ "addConeWall", "d6/dce/classNautaMixer.html#a9b611c0c8cd13779114025728ad2dab0", null ],
+    [ "addParticles", "d6/dce/classNautaMixer.html#a9ef4a60aae27e9d476d30613f36915c9", null ],
+    [ "addParticlesAtWall", "d6/dce/classNautaMixer.html#a7e68dc3c6ba6ac6b8897084d83e2ce99", null ],
+    [ "addScrew", "d6/dce/classNautaMixer.html#a1502b366be9923e60f1ca074bfd4b4fc", null ],
+    [ "addSpeciesAndSetTimeStepAndSaveCount", "d6/dce/classNautaMixer.html#aff3e8a7928e0bae55e1576ad29d5b0a4", null ],
+    [ "addTopWall", "d6/dce/classNautaMixer.html#a06962e95f5b5bda82c3512fa2491f1f0", null ],
+    [ "setupInitialConditions", "d6/dce/classNautaMixer.html#ac45b14d54e0c3070bfa6c71de4e13cbc", null ],
+    [ "baseTipHeight", "d6/dce/classNautaMixer.html#ae006fddac8e1aa69598b4fe976c53823", null ],
+    [ "coneBaseHeight", "d6/dce/classNautaMixer.html#a7d140b804a594c57a763779867e84f45", null ],
+    [ "coneTipHeight", "d6/dce/classNautaMixer.html#ad477f06fec2c1d5257cb7f25e68baf97", null ],
+    [ "coneTopRadius", "d6/dce/classNautaMixer.html#a453622aa96d6eb9b1590e67244aa5eb4", null ],
+    [ "maxParticleNumber", "d6/dce/classNautaMixer.html#a442e66aac0026b46d3baf0d02c57e521", null ],
+    [ "particlePolydispersity", "d6/dce/classNautaMixer.html#ab430eac5ce618b26b1c4b37615399baf", null ],
+    [ "particleRadius", "d6/dce/classNautaMixer.html#a91a9f5b992dcd0e6d2ed038b0952e215", null ],
+    [ "rotationRate", "d6/dce/classNautaMixer.html#a0684498c75524a61e34ce2e1a50a2f0a", null ],
+    [ "screwCoreRadius", "d6/dce/classNautaMixer.html#af1844e5f10848cddb9cffbcdb41e0541", null ],
+    [ "screwPitchNum", "d6/dce/classNautaMixer.html#af0fe13ffb7551fe2592dcb92ead5576f", null ],
+    [ "screwRadius", "d6/dce/classNautaMixer.html#a194377bd4b52c16339ad682c553d4ae5", null ],
+    [ "screwRotationRate", "d6/dce/classNautaMixer.html#aa616f0998a87a931d4302e41702e688e", null ],
+    [ "screwThickness", "d6/dce/classNautaMixer.html#ac0449b6c4deed483c7f3559e4dde58bb", null ],
+    [ "screwTipHeight", "d6/dce/classNautaMixer.html#ac1306d964cb18aeae99f3ccea87ed98b", null ],
+    [ "screwTopRadius", "d6/dce/classNautaMixer.html#a40e69f5cf349e731682bc9ea39c5850c", null ],
+    [ "topHeight", "d6/dce/classNautaMixer.html#a53b990dda51e1e4286a8a69a03bde7f5", null ]
+];

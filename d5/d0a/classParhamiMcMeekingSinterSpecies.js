@@ -1,0 +1,26 @@
+var classParhamiMcMeekingSinterSpecies =
+[
+    [ "InteractionType", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#afa828dcc6de41721eb56f4fe99c71537", null ],
+    [ "ParhamiMcMeekingSinterSpecies", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#aa5a47544ef252afb7e423c16fb176e2e", null ],
+    [ "ParhamiMcMeekingSinterSpecies", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a7f214f1e65e2eca7f9ab9de652b1c2f3", null ],
+    [ "~ParhamiMcMeekingSinterSpecies", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a73a1908a9e5967e7d673a5a804f632e5", null ],
+    [ "getAdhesionCoefficient", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#ad5191e7d68a507e7539d925499cefe74", null ],
+    [ "getBaseName", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a1f3ef80c534e8eee8e1c1d211b865e97", null ],
+    [ "getSlidingFrictionCoefficient", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a8da1d2ea1671e7868094fa783bb532e4", null ],
+    [ "getViscosityCoefficient", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a2f95108253b6ed91c1f51fd9dc6372ad", null ],
+    [ "mix", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a3f20e238bba12fca3deb06ea2eea58d3", null ],
+    [ "read", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#aebc89d3ee549f8dd53bc4a98c91dfad5", null ],
+    [ "set", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#aef9d9a3caf590202d9325ff28ad6e443", null ],
+    [ "write", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a355bc6019c1ffcde6c1b50135cc8cd28", null ],
+    [ "activationEnergy_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#afe22dea084831ae0e2b937591c0fa7b4", null ],
+    [ "adhesionCoefficient_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#aa57a0d8dd9179d7bc13c8f9f7b00bfb6", null ],
+    [ "alpha_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#ae4b9e7e846bc8aa6eeb5c5bef4d4abf5", null ],
+    [ "atomicVolume_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a26c6b7e5f3d3508f9adb877e3e8786a2", null ],
+    [ "beta_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#ac354a499b2bc348dbab54565089a8876", null ],
+    [ "pseudoSlidingFrictionCoefficient_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#ad3562916f498f7d61e0230f30f4efef5", null ],
+    [ "slidingFrictionCoefficient_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a4542a9070e1bc24bcde192916cc11a5c", null ],
+    [ "surfaceEnergy_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a279db1ecee4f0f36a779fbccde8b614a", null ],
+    [ "temperature_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a38d653e66d2b6ea6d1987ab409ffec2e", null ],
+    [ "thicknessDiffusion_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#a9d41f506ffc3b323d7d63cfdb1e069ae", null ],
+    [ "viscosityCoefficient_", "d5/d0a/classParhamiMcMeekingSinterSpecies.html#aa13ccc1878042613fd96eea11c33d99b", null ]
+];
